@@ -1,0 +1,1 @@
+https://digital-is-green.jp/branding/human-centered/001.html
