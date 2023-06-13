@@ -5,8 +5,37 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:kikuchiharuma",
+      "color": {
+        "a": 1,
+        "rgb": 14718802
+      }
+    },
+    {
+      "query": "path:shotaroyagi",
+      "color": {
+        "a": 1,
+        "rgb": 5408992
+      }
+    },
+    {
+      "query": "path:Person",
+      "color": {
+        "a": 1,
+        "rgb": 2744081
+      }
+    },
+    {
+      "query": "path:Keywords",
+      "color": {
+        "a": 1,
+        "rgb": 14701261
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.8542015676608963,
   "close": true
 }
