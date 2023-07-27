@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"バックログ","id":"6caf7b5bcd576a0a","x":420,"y":-120,"width":340,"height":200},
+		{"type":"text","text":"Definition of Done","id":"18c3cdad5695adb4","x":465,"y":-41,"width":250,"height":60},
+		{"type":"text","text":"インクリメント","id":"922d772b15fa98ff","x":-320,"y":-120,"width":340,"height":200},
+		{"type":"text","text":"プロダクト","id":"0b33c62ff2195c8d","x":-320,"y":280,"width":340,"height":200},
+		{"type":"text","text":"プロダクトゴール","id":"8631c818c0888d8f","x":420,"y":280,"width":340,"height":200},
+		{"type":"text","text":"チーム","id":"70238ab456bea3ea","x":20,"y":-660,"width":445,"height":320},
+		{"type":"text","text":"開発者","id":"f384258849d1f170","x":118,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"プロダクトオーナー","id":"208905a702e030c9","x":119,"y":-530,"width":250,"height":60},
+		{"type":"text","text":"スクラムマスター","id":"83627e085b87aa0a","x":118,"y":-620,"width":250,"height":60},
+		{"type":"text","text":"なぞの絆\nチームの直感で感知される？","id":"15631c16a247eeed","x":140,"y":333,"width":180,"height":95},
+		{"type":"text","text":"無から湧いて出る？","id":"5f550e717f78e022","x":465,"y":368,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"56ba03241ccf8a70","fromNode":"922d772b15fa98ff","fromSide":"bottom","toNode":"0b33c62ff2195c8d","toSide":"top","label":"リリース"},
+		{"id":"c7211211dd53ef3d","fromNode":"8631c818c0888d8f","fromSide":"top","toNode":"6caf7b5bcd576a0a","toSide":"bottom","label":"プランニング、リファインメント etc."},
+		{"id":"c1a8922fa62776ff","fromNode":"70238ab456bea3ea","fromSide":"bottom","toNode":"15631c16a247eeed","toSide":"top","label":"コミットメント"},
+		{"id":"627fc52dcd0eef3f","fromNode":"70238ab456bea3ea","fromSide":"bottom","toNode":"6caf7b5bcd576a0a","toSide":"top"},
+		{"id":"5726ed62d2fa48dd","fromNode":"70238ab456bea3ea","fromSide":"bottom","toNode":"922d772b15fa98ff","toSide":"top"},
+		{"id":"bd81924b2fa1db95","fromNode":"0b33c62ff2195c8d","fromSide":"right","toNode":"15631c16a247eeed","toSide":"left","fromEnd":"arrow"},
+		{"id":"a7e6979b6cc3fcdf","fromNode":"8631c818c0888d8f","fromSide":"left","toNode":"15631c16a247eeed","toSide":"right","fromEnd":"arrow"}
+	]
+}
