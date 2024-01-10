@@ -1,0 +1,58 @@
+- project の言葉の成り立ちについて考えてみた
+	- pro (前方へ) - ject (投げ出す)
+		- なるほどそれっぽい
+		- やってみないとわからないことをやっていそう
+	- pro (前方を) - spect (見る)
+		- なるほど、見てるだけだから
+		- 蓋しかなニュアンスが加わっていそう
+	- retro (過去を) - spect (見る)
+		- なるほど振り返りらしい
+		- 過去でないところから見ている感じもある
+	- retro - ject
+		- 後方に突き出す？
+		- to project into the past
+			- という説明を見つける
+			- pro - ject と書いてる時点でつかみづらそうな感じがある
+			- 実際何のこと、という感じがある
+	- ject を使った言葉は他に何があるんだろう
+		- sub - ject
+		- in - jec - tion
+		- re - ject
+		- inter - ject
+		- jet
+		- tra - ject - ory
+		- e - ject
+		- con - ject
+		- de - ject
+	- ob - ject 
+		- これはなんか特殊な感じがする
+		- ob - とは何か？
+			- ob - tain
+			- o - ccupy
+			- o - cclude
+		- 目の前に、直接的につかんでる感じ？
+			- ob (目の前に) - ject (差し出す)
+			- という解釈をみつける
+			- なるほど
+		- pro - ject と ob - ject の関連
+			- これは Project Sprint っぽいのでは？
+			- Object から出発して、前方へ投げ、また Object に帰って行く
+				- ject にこだわっているとも言える
+					- (spect に対して)
+			- ここまでの議論はいかにして ob - ject 的な状態が生まれるか
+				- だったような気がしてくる
+					- call することで
+					- 複数の人の目の前に存在し始める
+- ob - ject を中心に想像してみる
+	- 未来については
+		- pro - ject してみる
+		- というのはわかる
+	- 過去の ob - ject には
+		- retro - spect ができる気がする
+	- ob - ject に対して
+		- in - spect することができる？
+		- ex - spect することもできる？
+- 最近話し始めていること
+	- ex - spect はどのように始まるのか？
+	- ということなのかも知れない
+		- 何も ex - spect することなく pro - ject することは難しそう
