@@ -1,0 +1,29 @@
+- We stared here
+	- [[2023 Autumn Launch]]
+	- 1 year later (now)
+		- we did!
+			- monthly journal
+			- newsletter
+		- did okay
+			- meetup
+			- github organization / discord
+		- did not very much
+			- digital garden
+	- what next?
+		- keep
+			- monthly journal
+			- newsletter
+		- try
+			- bilingual?
+			- digital garden?
+			- printed version?
+- for Anniversary Issue
+	- can read online
+		- machine readability and semantics
+			- epub, pdf are not... but svg is
+		- for future readers
+	- bilingual
+		- may be debut of shotaro and students translation work
+	- re-activate the digital garden
+		- reflection, introspection of season 1, for us
+		- more source for monthly issues
