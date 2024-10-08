@@ -1,0 +1,9 @@
+- [[ハッカー文化の伝道師]]
+	- How self-organized teams come to aware it?
+		- It changes its own process.
+		- It exists like a game.
+		- Have clear rules about self and accept what happens.
+		- Confronting (human made) nature
+- [[Editor's Note]]
+	- What does this month's Journal make possible?
+	- What made this month's journal possible?

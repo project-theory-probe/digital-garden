@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[What question does the article answer?]]
 ### Conflicts between Systems
 
 - [[「人が道具を作り、道具が人の可能性を拓く」と Quest の研究テーマ]]
