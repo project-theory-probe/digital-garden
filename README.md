@@ -1,11 +1,11 @@
-# quest-obsidian-vault
+# Digital Garden
 
-An [Obsidian](https://obsidian.md/) vault to keep and organize notes and sketchs maked during research activities of the [Quest](quest.projectsprint.org).
+An [Obsidian](https://obsidian.md/) vault to keep and organize notes and sketchs maked during research activities of the [Project Theory Probe](https://ptp.voyage/).
 
 ## Contact:
 
-Quest Web
-[quest.projectsprint.org/](https://quest.projectsprint.org/)
+Project Theory Probe
+[https://ptp.voyage/](https://ptp.voyage/)
 
 Haruma Kikuchi: [@kikuchiharuma](https://github.com/kikuchiharuma)
 Circuit Lab. Team, UNIBA INC.
