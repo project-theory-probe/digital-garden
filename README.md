@@ -1,6 +1,6 @@
 # Digital Garden
 
-An [Obsidian](https://obsidian.md/) vault to keep and organize notes and sketchs maked during research activities of the [Project Theory Probe](https://ptp.voyage/).
+An [Obsidian](https://obsidian.md/) vault to keep and organize notes and sketches made during research activities of the [Project Theory Probe](https://ptp.voyage/).
 
 ## Contact:
 
