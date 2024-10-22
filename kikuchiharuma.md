@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[We project well.]]
 - [[What question does the article answer?]]
 ### Conflicts between Systems
 
