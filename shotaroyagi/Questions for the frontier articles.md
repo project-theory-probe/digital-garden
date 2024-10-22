@@ -1,0 +1,33 @@
+- 1
+	- Why is voyager the fastest artifacts in the world?
+- 3
+	- Why can we deal with unexpected error?
+	- What is the least condition of the project?
+- 4
+	- How was the unfamiliar collaboration been made?
+	- How would the "involution" looks like in a project
+- 5
+	- Why does resource flows into the risky projects?
+	- How is reality matters to a project?
+	- What is perceived as things that matters?
+- 6
+	- What separates projects from politics?
+	- What is "openness" towards possibility?
+- 7
+	- What is frontier?
+	- What does "frontier" project looks like?
+- 8
+	- Why is response-ability important?
+	- How is it relevant to our project practices?
+- 9
+	- How does sensitivity affects how we relate with each other?
+- 10
+	- What is projecation?
+	- Why is it important?
+- 11
+	- What is anti-practice?
+	- Why is breaking practice pattern matters?
+- 12
+	- Why is "enjoying" project important?
+	- How does it relates to adapting complexity?
+- 
