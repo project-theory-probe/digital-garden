@@ -1,0 +1,19 @@
+- What I have been aware
+	- Shotaro
+		- The true nature of language
+			- we are forced to belong that when using language
+		- that even affects being of ourselves
+			- causes many kinds of mis-understanding or mis-communications
+		- it seems to enable explain the history of software community
+			- their effort to explain themselves to others (especially business people)
+			- some way of existing are destined to failure of dialogue
+				- also empathy, respect ... more
+	- Kitty
+		- The realm between us to be found
+			- it is difficult to see, call, discuss ... share
+		- and the reason
+			- a lack of vocabulary
+			- we need more words to understanding us
+- my hope
+	- mis-communications will be overcame by new vocabularies
+		- How are new vocabularies get up? 
