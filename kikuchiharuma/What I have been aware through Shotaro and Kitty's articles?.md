@@ -1,5 +1,5 @@
 - What I have been aware
-	- Shotaro
+	- [[shotaroyagi|shotaro]]
 		- The true nature of language
 			- we are forced to belong that when using language
 		- that even affects being of ourselves
@@ -8,7 +8,7 @@
 			- their effort to explain themselves to others (especially business people)
 			- some way of existing are destined to failure of dialogue
 				- also empathy, respect ... more
-	- Kitty
+	- [[kitty]]
 		- The realm between us to be found
 			- it is difficult to see, call, discuss ... share
 		- and the reason
