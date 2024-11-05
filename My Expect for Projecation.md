@@ -1,0 +1,41 @@
+- Projecation
+	- when i met this word through hearing from [[shotaroyagi|shotaro]]
+		- very interested in its doubled structure
+			- doubled meaning?
+		- the first is
+			- project - vacation
+				- projects what like a vacation
+				- as its natural origin
+		- the second is
+			- pro- ject - ation
+				- projecting itself
+				- things what being a project
+	- today's project
+		- is mis-understood
+			- that is too business like
+			- too goal oriented
+				- make people means to an end
+				- that itself can be painful
+	- the nature of project
+		- or its origin is ...
+			- exists like a vacation
+				- what should be cured
+				- what is lost in today's world
+			- organizes structure of itself
+				- what should be taken back
+				- too forced by others in today
+			- accept what happens
+				- the way of share with others in deeper sense
+				- the joy of living
+	- its similar to self-organized teams
+		- [[What question does the article answer?]]
+			- It changes its own process.
+			- It exists like a game.
+			- Have clear rules about self and accept what happens.
+			- Confronting (human made) nature
+- it seems fulfill what I want to do in two ways, in same time
+	- cure today's lack of sense
+		- remind us its nature
+	- define the original form of project (team, or creativity of people)
+		- what do we need to do pro - ject
+- this is my thought when writing [[Issue 10 Editor's Note]]
