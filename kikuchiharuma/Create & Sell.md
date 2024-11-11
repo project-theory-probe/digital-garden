@@ -1,0 +1,13 @@
+- [[Kitty Gia Ngân|Kitty]] says about
+	- frustration
+	- creation and selling
+- I feel very similar one
+	- may be
+	- UNIBA is one of struggle for that
+		- also hackers
+		- struggle with business
+- but
+- people frequently discuss in UNIBA
+	- 'A batter swinging in an empty field'
+- Can we create and sell at the same time?
+	- To draw attention to the moment of creation?
