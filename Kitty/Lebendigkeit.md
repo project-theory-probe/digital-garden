@@ -4,7 +4,7 @@ and guiding feelings I feel from PTP team:
 - Lebendigkeit
 	- The quality of liveliness in everything: a stone, a cloud, a poem, a cat, a building, a human, etc.
 	- We are pursuing a quest to understand, thus, protect …
-		- Livingness
+		- Livingness: joy, aliveness, living creativity / system...
 		- What it means to be a free person
 			- Ability to adapt with situations is freedom
 			- Creative power in the service of life
