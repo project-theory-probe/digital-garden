@@ -5,6 +5,10 @@
 
 ## Thoughts
 
+- [[Create & Sell]]
+- [[My Expect for Projecation]]
+- [[What I have been aware through Shotaro and Kitty's articles?]]
+- [[We project well.]]
 - [[What question does the article answer?]]
 ### Conflicts between Systems
 
