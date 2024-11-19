@@ -1,0 +1,45 @@
+- The summary of season 1 (although I haven't reached ⑥)
+	- ①human practice is linguistic from the epistemological level and 
+	- ②language about practice is what accelerates the self-organization. 
+	- ③Language about practice is almost given and felt as if it exists. Therefore this is ontological issues. 
+	- ④However, these are rewritable through discursive practices (as every meaning is linguistically defined). Thus, 
+	- ⑤the norm on discursive practices (i.e. truth seeking) is the underlying principle. 
+	- ⑥this norm is contagious as it is implied by discursive practice**
+- ![[Pasted image 20241119150658.png]]
+- However, we are focused too much on the language
+	- Even without language, we are able to create new society/community
+	- We can build relationship with something outside of us
+	- The practice of responding
+		- Responding: 
+			- Recognize/ understand/ demarcate/ naming something
+			- Choice of what to take into account
+				- Patterns:
+					- 1. responding to substance A’s property
+					- 2. responding to substance A’s function/action
+					- 3. responding to what substance A created
+					- 4. responding to what holoboints (including A) creates
+					- 5. responding to the holoboints (including A) itself
+		- Response-ablity →
+		- Language(?)-game
+			- how order is created
+	- Because we tend to forget environment, minorities, customers, computers we have too much emphasis on internal dynamics
+		- How do we connect to externals?
+- Agendas:
+	- What is involution?
+		- Dana Haraway: Staying in the trouble
+		- Lynn Margulis: Microcosmos
+		- Nick J. Fox: Sociology and New Materialism
+		- Joseph Rouse: Social Practices as Bilogical Niche Construction
+		- Graham Harman: Object Oriented Ontology
+		- Ruth Garrett Millikan: Variety of Meanings
+		- Karen Barad: Meeting the Universe Halfway
+		- Fransisco Varela: Principles of Biological Autonomy
+		- 西郷 甲矢人：圏論の道案内
+	- What is Ject/Spect?
+		- Ject
+		- Spect
+	- How are we connecting to the "others" without language?
+	- What is the Normativity of Involution?
+	- Who was "self"?
+	- How can projects be different?
+    
