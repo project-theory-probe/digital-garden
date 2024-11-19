@@ -1,0 +1,35 @@
+A sketch to get an overview and express some personal expectation of season 2.
+
+- Kotsu No Kagaku (Core Practices) of Project (TBD) by [[motoi]] (Japanese)
+	- Monthly episodes collected from [[motoi]]'s experiences
+	- Inspired by Kotsu No Kagaku is a best seller book about cooking tips and technique
+		- Kotsu means originally bone in Chinese, then essential practices in Japanese now
+	- Each episode will be described with methodology working behind (ex. advisory process of the Holacracy)
+	- Collection of effective practices will be gathered through this series
+	- Also chance to reveal the logic of the Project Sprint and Motoi's tacit knowledge
+- Fukakujitusei wo Tanoshimu (Enjoying Uncertainty) (TBD) by [[ryo]] (Japanese)
+	- Monthly perspectives about being a team
+	- Project as life events of team to overcome, and how teams evolve
+	- Lessons learned in UNIBA's 20 years history especially shaping team practice through tools (physical properties)
+	- What is the culture of the team, and how it exists for people (as one example of the hacker culture)
+	- Also expected to train the Teamenv's idea to develop and expand the UNIBA tradition as a tool
+- Concept of Month (TBD)  by [[shotaroyagi|shotaro]] (Japanese?)
+	- Explain important concept for PTP each month
+	- As an alternative to this month's book, free from the authors and histories of books
+	- History of the discovery and acceptance of concepts and giving interpretations by PTP
+	- Also forms a collection of concepts to describe the PTP concepts
+- (some new bold series) by [[shotaroyagi|shotaro]] (Japanese?)
+	- (As sequel to the Self-Organizing Project)
+	- (may be about beyond-self?)
+		- (involution, selves, right to left and left to right reading, ject and spect ...)
+- (something about urban design by Kitty's friend?) (English?)
+- [[What's Love* Got To Do With It?]] by [[kitty]] (English)
+	- Monthly points of view for seeing new intimate realm to live
+- Boku Project Ojisan by [[shotaroyagi|shotaro]] (Japanese?)
+	- Funny and beyond explanation episodes
+- Recent Project Sprint by Kokoro  (Japanese)
+	- Explain the behind of Project Sprint in more personal way
+- [[Editor's Note]] by [[kikuchiharuma]] (Japanese?)
+	- A conclusion as a personal thought
+		- What does this month's Journal make possible?
+		- What made this month's journal possible?

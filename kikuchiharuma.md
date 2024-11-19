@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[New Series for Season 2]]
 - [[Create & Sell]]
 - [[My Expect for Projecation]]
 - [[What I have been aware through Shotaro and Kitty's articles?]]
