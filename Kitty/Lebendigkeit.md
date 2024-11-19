@@ -13,7 +13,7 @@ and guiding feelings I feel from PTP team:
 		- I met Shotaro at a Danish Museum called Far Away from Home.
 
 
-> “[...] design as the art of creating living order in systems, the desire to give a building as much life as possible.” (Helmut Leitner explaining Christopher Alexander)
+> “[...] design as the art of creating living order in systems, the desire to give a building as much life as possible.” (Helmut Leitner explaining [[Christopher Alexander]])
 
 - Naturally, you/we advocate for the authentic artist.   
 - Technically, you/we are building a language (vocabulary) → pattern → environment to create a living order in all systems.
@@ -28,4 +28,4 @@ Sharing from myself:
 	- My environment is not conducive to my wellbeing. 
 	- Zombie as default mode of living.
 - Tools I develop to maintain my Nature:
-	- Creation of Từ Từ is to spark and preserve aliveness (: empathy, joy, gentleness) in daily human connections.
+	- Creation of [[Từ Từ]] is to spark and preserve aliveness (: empathy, joy, gentleness) in daily human connections.
