@@ -7,7 +7,7 @@
 Possible paths Kitty wants to pursue:
 
 
-<iframe src="https://tutuhouse.substack.com/p/how-to-hug"></iframe>
+
 # 1. Visual blog: metaconversation
 Conversations about conversation.
 
@@ -17,11 +17,12 @@ A short comic strip that converse about conversations: contrast how conversation
 * Shift our language ontology to love instead of fear.
 	* Connectedness instead of separateness
 * Maybe explore:
+	* Erin Kissane, [[Christopher Alexander]], Jan Gehl 
 	* Buddhist texts (and where Buddhism failed?)
 	* Integral Theory by Ken Wilber: Levels of Consciousness
 	* Methods that has worked for trauma treatment (EMDR, yoga, neuro-feedback) 
 	* The Invention of Tradition 
-		* Aestheticization of politics
+		* Aestheticization of politics (Walter Benjamin)
 
 For example, I find many commonalities between decolonial activism and empathy-based conversations. The 2 fields, decolonial studies (for example, Critical Race Theory, which talks about society as a whole) and the private sphere of conversations overlap. But there is no language for them yet. Thus, activism is not used in daily life wisdom and vice versa. But as I mentioned in [What's Love* Got To Do With Intimacy?](https://ptp.voyage/journal/12/#whatslovegottodowithit):
 
@@ -29,6 +30,8 @@ For example, I find many commonalities between decolonial activism and empathy-b
 
 ### Medium:
 [Visual blog](https://open.substack.com/pub/tutuhouse/p/how-to-hug?r=3h3eub&utm_campaign=post&utm_medium=web).
+
+<iframe src="https://tutuhouse.substack.com/p/how-to-hug" style="width:100%; height:500px;overflow:auto;"></iframe>
 
 ### Question:
 * Should I document existing rituals (eg Nonviolent Communication), or real-life conversation I have, or fictional dialogue (like Sho's comic)?
@@ -75,7 +78,6 @@ Questions from a friend:
 ----
 # 5. Anti-Virus Architecture
 
-Themes:
 * Power & Play
 * Transparency
 * Artifacts
