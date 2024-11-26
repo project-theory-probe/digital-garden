@@ -1,0 +1,17 @@
+- I mentioned [[中動態の世界 意志と責任の考古学]] in [[We Project well]]
+	- Kokubun proposes a verb history (he speculates) in this book
+		- there were two type of verbs about 2000 years ago
+			- active ... starts with the subject and ends outside
+			- middle ... starts with the subject and include itself
+			- there was no category to treat person or people as an owner or cause
+		- there was only one type of verb in past of past (more than 2000 years)
+			- middle like verb ... no distinction for where it happened
+				- also by whom
+		- the verb didn't even exist in very origin
+			- nouns ... noun-like verbs as generalizations of actions
+		- and today, there is strong tendency to separate active and passive (and lost middle type)
+			- it involves the "will" to do everything
+			- it could be a distinction ancient languages have not
+	- Is ptp trying to revive such a existence, project?
+		- and cure tendency to  identify who owns everything
+		- this seems to be related to [[My Expect for Projecation]]

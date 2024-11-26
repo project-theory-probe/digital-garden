@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[Active and Middle voice, again]]
 - [[New Series for Season 2]]
 - [[Create & Sell]]
 - [[My Expect for Projecation]]
