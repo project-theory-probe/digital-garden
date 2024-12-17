@@ -1,0 +1,18 @@
+- [[中動態の世界 意志と責任の考古学]]
+	- in the afterword
+		- there are three disability
+			- Constrained by body
+			- Constrained by the time of life
+			- Constrained by relationships with others
+		- and all of these are ourselves
+			- We live with these restrictions and
+			- in balance between our essence and the world.
+			- It's a world represented by the middle voice
+	- but
+		- is that be constraints?
+			- I mean, is it freedom from them that is needed?
+		- I wonder if those are in our power as well
+			- we are with the body
+			- we are in our histor
+			- we are together
+		- 
