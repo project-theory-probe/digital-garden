@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[On a razor blade]]
 - [[Freedom?]]
 - [[Active and Middle voice, again]]
 - [[New Series for Season 2]]

@@ -9,10 +9,10 @@
 			- in balance between our essence and the world.
 			- It's a world represented by the middle voice
 	- but
-		- is that be constraints?
+		- is that constraints?
 			- I mean, is it freedom from them that is needed?
 		- I wonder if those are in our power as well
 			- we are with the body
-			- we are in our histor
+			- we are in our history
 			- we are together
 		- 

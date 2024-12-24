@@ -1,0 +1,28 @@
+- Issue 8
+	- https://ptp.voyage/journal/8/
+	- [[shotaroyagi|shotaro]] wrote:
+		- オートポイエーシスは、カミソリの刃の上を歩くように、その中道を行く認識論的を展開しなければならない
+		- Autopoiesis must develop an epistemology that takes a middle path, like walking on a razor's edge
+- what comes to mind is ...
+	- What the new epistemology bring about?
+		- What will change?
+	- it could be..
+		- a new state of being
+			- new adjective?
+		- a new way of doing
+			- new verb?
+	- [[Active and Middle voice, again]]
+		- does middle voice relate to new way of doing?
+		- is the 'middle' the middle path of autopoiesis shotaro wrote?
+	- I think ...
+		- 'The world of middle voice' seems to be
+			- a world of existence that embodied, historical and related each other.
+				- (not in spirit, universal, individual)
+			- it may be the background of [[Freedom?]]
+		- way of doing 
+			- we do something in relation to others
+				- not only mine, but also mine
+	- it will be a turn of doing
+		- also being oneself
+- if the world comes
+	- we have no need to say 'we are on a razor blade'.
