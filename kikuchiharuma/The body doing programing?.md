@@ -1,0 +1,26 @@
+- 数学する身体 (2015)
+	- Morita Masao 
+	- (The Body Doing Mathematics)
+- He wrote...
+	- mathematics
+		- which had been constructed through natural language and physical manipulation
+		- has developed, and computation itself can now be objectified through mathematics
+		- theoretical ”Turing Machine” were implemented
+			- and became computers today
+	- mathematics reach extreme abstraction in 20th century
+		- that enables liberate computation from the body
+	- but
+		- mathematics cant explain what "1" is
+			- its still in the body and history
+	- Kiyoshi Oka and Alan Turing tried 
+		- going beyond computation to explore what mathematics is all about
+- im thinking about...
+	- similarity with programming and math
+		- math enables mathematician to live in its construction
+			- it will be similar to hackers
+			- hackers live in programming
+				- and that make their thoughts, actions and body
+	- application to natural language
+		- language about the language that makes the project possible
+	- limits shared by computation and software
+		- that suggests need for integrity
