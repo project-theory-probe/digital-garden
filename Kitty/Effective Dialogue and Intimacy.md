@@ -13,7 +13,7 @@ Also:
 * Situation: When we click with someone.
 * Other names: neural simultaneity, neural coupling, one brain, between-brain synchronization
 * What happens: 
-	* eyes dilate in tandem
+	* eyes dilate in tandem`
 	* hearts beat in similar pattern
 	* electrical pulses within craniums synchronize
 	* electrical impulses along the skin synchronize
