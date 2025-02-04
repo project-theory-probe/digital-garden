@@ -1,5 +1,5 @@
 
-Reflection on current process for INTIMACY article:
+Reflection on current process for [[INTIMACY]] article:
 
 Hieu and I stayed up until 1AM to figure out how we could merge our fields together and create a social experiment on intimacy.
 
