@@ -1,0 +1,38 @@
+- in The Structure of World History, [[柄谷行人|Kojin Karatani]] wrote ...
+	- describe history by methods of exchange
+		- the dominant method makes social structure
+		- or explain social evolution by the change of dominant method
+	- he lists four major methods
+		- reciprocity (gifts and returns)
+		- takeover and redistribution (control and protection)
+		- commercial (money and buying and selling)
+		- X (evolved reciprocity)
+	- these methods are existing simultaneously in each society
+		- just dominant
+		- not exclusive
+- for us ...
+	- X seems to be the realization of the state we are looking for
+		- feeling in projecation
+		- truly intimate space
+		- the space hackers love
+		- ... etc.
+- can we think of our effort in this point ...
+	- conflicts between exchange methods
+		- hackers struggles: commercial - X
+			- cooperation that transcends the logic of capital
+		- in/visible voices: control and protection - X
+			- social division
+			- situations where contradictions are imposed on specific people
+				- ex. women
+				- ex. north-south problem
+- quest:
+	- what an evolved world of reciprocity looks like?
+		- [[柄谷行人|Kojin Karatani]]'s description attempts to portray the inherent potential of Marx's considerations
+			- it is an attempt to meet the demands of the 70's when he was young
+			- we need to think a little differently
+	- especially,
+		- what then does the logic of capital and its logic of controlling others look like?
+			- when evolved reciprocity realized
+	- could this perspective unify our efforts into one?
+		- it could include multiple problems in todays society.
+		- but it may share a new world
