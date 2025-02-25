@@ -5,6 +5,9 @@
 
 ## Thoughts
 
+- [[Possibility of a new name]]
+- [[Evolved reciprocity as the new dominant social foundation]]
+- [[The body doing programming?]]
 - [[On a razor blade]]
 - [[Freedom?]]
 - [[Active and Middle voice, again]]
