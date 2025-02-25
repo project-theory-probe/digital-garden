@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[A new being = doing]]
 - [[Possibility of a new name]]
 - [[Evolved reciprocity as the new dominant social foundation]]
 - [[The body doing programming?]]

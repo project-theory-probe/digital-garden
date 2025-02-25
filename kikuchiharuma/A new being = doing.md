@@ -1,0 +1,31 @@
+- my recent articles
+	- [[Possibility of a new name]]
+	- [[Evolved reciprocity as the new dominant social foundation]]
+	- [[The body doing programming?]]
+	- [[On a razor blade]]
+	- [[Freedom?]]
+	- [[Active and Middle voice, again]]
+	- [[New Series for Season 2]]
+	- [[Create & Sell]]
+	- [[My Expect for Projecation]]
+	- [[What I have been aware through Shotaro and Kitty's articles?]]
+	- [[We project well.]]
+- these articles are thinking about a new (aspect of) way of being
+	- (not denying other aspects: capital, social authority, etc. ... not karatani's X)
+- These articles may be trying to make doing something the basis of existence
+	- (as opposed to a way to separate and relate the individual to other individuals)
+- that is ...
+	- When something is doing, it can exist
+		- (The middle voice probably expresses this better)
+	- If so...
+		- It tends to move away from the distinction between self and other
+		- It envision a reciprocal world
+			- (It is not necessary to think of some transaction or purpose as a precondition for an action)
+- How can we communicate about this ontology?
+	- How to grow it without hurting something?
+	- Can the project be a cradle for this?
+		- The new ontology is does not distinguish between good and bad
+		- Therefore, it is neither an enemy nor a friend of anything
+			- and not necessarily the final destination
+			- Evil people can exploit this
+				- (werewolf?)
