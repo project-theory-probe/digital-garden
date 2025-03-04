@@ -1,0 +1,23 @@
+- im trying to ...
+	- remaking my (our) place UNIBA
+		- we've been discussing it for six months. 
+		- writing new manifesto
+		- first time in 5 years since 2020
+			- everyone said "our culture" and way of life is most important
+			- not growth, or other purposes
+	- UNIBA is originally a community of "children".
+		- and later, it become a company.
+			- (starting "selling" their ability - joining the economy)
+		- we consider that positive itself
+			- but we are waking up to our "culture"
+				- and realizing that they need a way to maintain it
+	- my plan (its already in a half way) is...
+		- establishing a new space for free exchange and cooperation for ourselves
+			- and move the company for the exchange inside
+			- the company (sales, deals) become a tool
+- a new space
+	- how do I communicate this?
+		- anyone can enter and
+		- not a religion or a corporation
+		- it is like a permanent projecation
+		- it is also a small realization of X
