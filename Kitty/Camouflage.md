@@ -1,9 +1,10 @@
 [[INTIMACY]] is NOT:
-+ Knowing how to make others feel seen/comfortable
-+ Understanding (the RULES of) social interactions
-+ Being aware of impression made on others
-because all of the above can be
-* camouflaging
++ knowing how to make others feel seen/comfortable
++ understanding (the RULES of) social interactions
++ being aware of impact made on others
+
+all of the above can be
+* camouflaging:
 
 ![[Camouflaging.png]]
 source: [Development and Validation of the Camouflaging Autistic Traits Questionnaire (CAT-Q)](https://link.springer.com/article/10.1007/s10803-018-3792-6)
