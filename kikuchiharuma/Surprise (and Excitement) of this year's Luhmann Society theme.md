@@ -1,0 +1,11 @@
+- [[shotaroyagi|shotaro]] shared me this today
+	- [https://luhmannconference.com/2025/01/08/cfp-luhmann-conference-2025-in-cambridge/](https://luhmannconference.com/2025/01/08/cfp-luhmann-conference-2025-in-cambridge/)
+	- this is my theme itself
+		- that surprised me
+		- it's a chance to clarify (with shotaro)
+- probing programmers society is not only my personal interest
+	- that is today's problems 
+		- Software is more influential than ever and it is important to know about it 
+		- Software is misunderstood (it is under the influence of paper and document culture and its function is hidden behind the decoration, as in the covered wagon effect) 
+		- Faced with the pessimistic side of technology Hackers themselves are unable to develop a new vision
+			- It is becoming a problem that is more deeply rooted in people than in technology itself
