@@ -1,29 +1,24 @@
-* capitalism convinces individuals (especially feminized and racialized bodies) that care work is an extension of their identity rather than labor.
-	* **love and obligation** are used to **mask labor**—in family, friendships, and even workplaces
 
-* the demand to be **constantly available for care** (partners, family, friends, clients)
-- the **affective burden on marginalized communities**—disproportionately extracted from women, LGBTQ+ people, and racialized individuals—while exempt certain individuals (rich, men) from care work gives them an advantage to focus on paid labors
-
-### **Care Labor and Capitalism**
 
 - Care Labor is all the work that sustains the system's well-being:
 	* Example 1: A colleague’s kindness in a meeting is Care Labor that maintains an enjoyable environment for the team's productivity.
 	* Example 2: A maid who cleans the house to make it an enjoyable space for those who live in it.
+	
 	- Projecation is only possible when there is A LOT of Care Labor.
 	- Without Care Labor, capitalism collapses into hostility, depression, and unlivability. Capitalism NEEDS care labor so that workers continue to work while maintaining a bare-minimum happiness.
 
-### **Capitalism’s Strategy: Extract More, Give Less**
+### **Capitalism’s Strategy: 
 
-- Care Labor is systematically **devalued** to maximize surplus for those at the top.
+- Care Labor is systematically **devalued** to maximize surplus.
 - To keep profits high, workers must be made to have...
 	- fewer and cheaper needs and desires
-	- less worth = low pay
-#### **Strategies to Devalue Care Labor**:
+	- low pay = deemed as "less worthy"
+#### **Strategies to Devalue Care**:
 
-1. **Declaring it "free" or low-value**
+1. **Declaring it "free" or "natural"**
     
     - **"Unskilled labor"**: Framed as easy, requiring no real effort.
-    - **“Natural”**: Expected from certain groups (e.g., women, caregivers); refusal is demonized.
+    - **“Natural”**: Framed as requiring no training. Expected from certain groups (e.g., women, caregivers); refusal is demonized.
     - Making it **non-visible**, invisible.
     
 2. **Systematizing unpaid Care Labor**
@@ -44,5 +39,14 @@
 
 
 Quests:
+
 * To create the feeling of projecation, care labor needs to be understood and systemically addressed.
-* Does everyone involve in projecation have a "good management for wellbeing"?
+	* How? Do we pay or engage in a different economy? 
+	* If we engage in a different, non-transactional economy, like "gift economy", would that prevent participation from people who NEED capital to survive (example: poor, unhealthy, disabled, stigmatized individuals)?
+* Does everyone involve in projecation required to have a "good management of wellbeing" (aka good practice of care)? 
+	* Will they most likely be from middle to upper class?
+* Addressing Care is to enter the realm of Morality, which makes the topic triggering to those who benefit from the status quo:
+	* What are the possible paths to include this in popular conversations without creating divisions? 
+	* Is "disrupt" the crucial path forward? 
+
+* How do we both redistribute capital AND reimagine an involutionary system that rewards care?
