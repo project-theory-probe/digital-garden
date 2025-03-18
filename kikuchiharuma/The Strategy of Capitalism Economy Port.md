@@ -1,0 +1,36 @@
+- i wrote [[a new space]]
+	- it's ...
+		- a plan for the future of UNIBA
+	- i aware through writing it
+		- the plan is already going on
+			- (in past few years)
+			- it was naturally headed to this direction
+				- finally i found it
+- the direction is...
+	- based on mutual influence and evolution
+		- like bacteria ([[八木翔太郎|Shotaro]] introduced)
+			- or hackers
+		- not based on capitalism
+			- even not aimed to money
+	- but 
+		- this kind of community don't make money itself
+	- how to ...
+		- build a port to the outside world = the capitalism economy
+			- and trade trough the port
+			- money is existing for trade here
+				- there is no need to follow the logic of economy
+				- money is only needed when trading
+- i intend to apply my home base = UNIBA this strategy for next decade
+	- i wrote first draft of UNIBA manifesto
+		- for establishment a space of our foundation  
+			- as mutual influence and evolution space
+		- and
+			- we've already move to the form owns a port opens to "the capitalism sea"
+				- we call that kernel
+					- it started in spring, 2024
+- this structure will support ...
+	- separation of two logics
+		- economy and evolution
+	- not denying existing authority or mechanisms
+		- all [[柄谷行人|Kojin Karatani]]'s interchange formats
+		- exchange even can be vital of the community
