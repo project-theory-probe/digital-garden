@@ -1,0 +1,20 @@
+- i'm writing the new UNIBA manifesto
+	- in accordance with
+		- [[The Strategy of Capitalism Economy Port]]
+- i've discussed with UNIBA people
+	- in draft 1
+		- we felt discomfort with the key phrase
+			- 無償の交換
+				- "free interchange" in english?
+			- it is ...
+				- too objective description
+				- tasteless
+				- not expressing personal experience
+				- recalling the "subject" / old "me"
+	- i write draft 2
+		- i pick a new phrase
+			- "Bazaar of Creation"
+				- 創造のバザール
+			- this probably means a space for projecation or intimacy etc. for us
+			- we also need a physical space like Alexander's.
+				- we first make it in people's interactions
