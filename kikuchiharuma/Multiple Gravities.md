@@ -4,7 +4,7 @@
 		- Issue 15 Editor's Note - "Me" as a code runner / code from others make "me"
 		- Issue 16 Editor's Note - Red Panda's personal space as be read by others
 		- Issue 17 Editor's Note - Inner border of "self"
-		- [[The Strategy of Capitalism Economy Port]] - UNIBA is reaching to dual system capitalism and "X"
+		- [[The Strategy of Capitalism Economy Port]] - UNIBA is reaching to dual system of capitalism and "X"
 		- Kojin Karatani - Four interchange format that exist at same time
 		- All of Issue 17 - This issue is multi-directional ... so it's hard to write conclusion but fun. why?
 		- ...
