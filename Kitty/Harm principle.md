@@ -3,6 +3,7 @@
 * Architecture of Intimacy depends on safety.
 * I'm looking for the kind of ontology that minimizes harm.
 
+Introduced by [[Nel Noddings]]:
 
 Justice-based system:
 * believe in fairness
