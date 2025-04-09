@@ -1,0 +1,27 @@
+- Recently, I see in my "autistic view" ...
+	- There are similar patterns, I wrote repeatedly
+		- Issue 14 Editor's Note - Balance of (any type of) power
+		- Issue 15 Editor's Note - "Me" as a code runner / code from others make "me"
+		- Issue 16 Editor's Note - Red Panda's personal space as be read by others
+		- Issue 17 Editor's Note - Inner border of "self"
+		- [[The Strategy of Capitalism Economy Port]] - UNIBA is reaching to dual system capitalism and "X"
+		- Kojin Karatani - Four interchange format that exist at same time
+		- ...
+	- The pattern looks like complex interactions of gravity
+		- or a multi dimension scene
+- I may be trying ...
+	- Beyond adopting / choosing "one"
+		- Me or Them
+		- Good or Evil
+		- Love or Hate
+		- Create or Sell
+		- Capitalism or X (like a new communism)
+		- ...
+	- All can and should exist simultaneously
+		- Systems also interact with each other
+			- ... runs others in itself
+	- However
+		- Dominant system is also exist in each
+		- And changes its balance
+			- I think this is fun, conflict, suffering
+			- History itself
