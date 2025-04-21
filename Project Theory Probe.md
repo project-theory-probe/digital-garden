@@ -1,2 +1,4 @@
 - [[kikuchiharuma]]
 - [[shotaroyagi]]
+- [[kitty]]
+- [[motoi]]

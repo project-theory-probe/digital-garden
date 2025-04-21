@@ -5,6 +5,12 @@
 
 ## Thoughts
 
+- [[the Bazaar of Creation]]
+- [[Multiple Gravities]]
+- [[a Bazaar of Creation]]
+- [[Surprise (and Excitement) of this year's Luhmann Conference theme]]
+- [[The Strategy of Capitalism Economy Port]]
+- [[a new space]]
 - [[A new being = doing]]
 - [[Possibility of a new name]]
 - [[Evolved reciprocity as the new dominant social foundation]]
@@ -18,6 +24,7 @@
 - [[What I have been aware through Shotaro and Kitty's articles?]]
 - [[We project well.]]
 - [[What question does the article answer?]]
+
 ### Conflicts between Systems
 
 - [[「人が道具を作り、道具が人の可能性を拓く」と Quest の研究テーマ]]
