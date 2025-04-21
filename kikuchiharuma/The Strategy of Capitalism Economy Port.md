@@ -1,6 +1,6 @@
 - i wrote [[a new space]]
 	- it's ...
-		- a plan for the future of UNIBA
+		- a plan for the future of [[UNIBA]]
 	- i aware through writing it
 		- the plan is already going on
 			- (in past few years)
@@ -20,8 +20,8 @@
 			- money is existing for trade here
 				- there is no need to follow the logic of economy
 				- money is only needed when trading
-- i intend to apply my home base = UNIBA this strategy for next decade
-	- i wrote first draft of UNIBA manifesto
+- i intend to apply my home base = [[UNIBA]] this strategy for next decade
+	- i wrote first draft of [[UNIBA]] manifesto
 		- for establishment a space of our foundation  
 			- as mutual influence and evolution space
 		- and

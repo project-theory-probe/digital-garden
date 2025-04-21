@@ -3,7 +3,7 @@
 		- 自らの同一性を保つために他者を必要とする一方で、他者を取り込むが故に同一性が保たれないという、逆説的な個体の生き様
 	- [[kitty]]
 		- spaces where everyone can thrive as their fullest, most authentic selves
-	- karatani quotes Kant
+	- [[柄谷行人|karatani]] quotes Kant
 		- 「他者を手段としてのみならず同時に目的として扱う」
 		- その道徳法則が実現される社会「目的の国」
 - Mutual, Autonomy ... has its limits.

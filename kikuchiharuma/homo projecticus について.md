@@ -2,7 +2,7 @@
 	- なるほどなーと思った
 	- いろんな話の合流地点になりそうなアイディア
 		- [[UNIBA]] と [[COPILOT]] の共通点でもあり
-			- 自分が書いた The principle on which COPILOT and UNIBA rely を含みつつ
+			- 自分が書いた The principle on which COPILOT and [[UNIBA]] rely を含みつつ
 				- より原理 (projection) に言及し
 				- より広範囲 ([[COPILOT]] や [[UNIBA]] ではなく人類) の射程を持っている
 			- という意味で物足りないと感じた部分を解消してくれる

@@ -12,7 +12,7 @@ A sketch to get an overview and express some personal expectation of season 2.
 	- Project as life events of team to overcome, and how teams evolve
 	- Lessons learned in UNIBA's 20 years history especially shaping team practice through tools (physical properties)
 	- What is the culture of the team, and how it exists for people (as one example of the hacker culture)
-	- Also expected to train the Teamenv's idea to develop and expand the UNIBA tradition as a tool
+	- Also expected to train the Teamenv's idea to develop and expand the [[UNIBA]] tradition as a tool
 - Concept of Month (TBD)  by [[shotaroyagi|shotaro]] (Japanese?)
 	- Explain important concept for PTP each month
 	- As an alternative to this month's book, free from the authors and histories of books

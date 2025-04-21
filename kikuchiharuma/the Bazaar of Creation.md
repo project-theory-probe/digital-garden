@@ -8,7 +8,7 @@ For me, [[UNIBA]] is a place for trying that,
 The lesson is...
 
 - Very few people (in [[UNIBA]]) can change their ontology by dialogue or theoretical thinking
-	- Many people are struggling to adapt to UNIBA
+	- Many people are struggling to adapt to [[UNIBA]]
 		- Some people think this 'company' lacks initiative
 			- lack of some kind of 'response'
 - Tools and behaviors were more effective

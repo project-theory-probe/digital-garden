@@ -11,7 +11,7 @@
 	- [[What I have been aware through Shotaro and Kitty's articles?]]
 	- [[We project well.]]
 - these articles are thinking about a new (aspect of) way of being
-	- (not denying other aspects: capital, social authority, etc. ... not karatani's X)
+	- (not denying other aspects: capital, social authority, etc. ... not [[柄谷行人|karatani]]'s X)
 - These articles may be trying to make doing something the basis of existence
 	- (as opposed to a way to separate and relate the individual to other individuals)
 - that is ...

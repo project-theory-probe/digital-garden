@@ -1,7 +1,7 @@
-- i'm writing the new UNIBA manifesto
+- i'm writing the new [[UNIBA]] manifesto
 	- in accordance with
 		- [[The Strategy of Capitalism Economy Port]]
-- i've discussed with UNIBA people
+- i've discussed with [[UNIBA]] people
 	- in draft 1
 		- we felt discomfort with the key phrase
 			- 無償の交換

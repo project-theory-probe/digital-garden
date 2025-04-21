@@ -1,11 +1,11 @@
 - im trying to ...
-	- remaking my (our) place UNIBA
+	- remaking my (our) place [[UNIBA]]
 		- we've been discussing it for six months. 
 		- writing new manifesto
 		- first time in 5 years since 2020
 			- everyone said "our culture" and way of life is most important
 			- not growth, or other purposes
-	- UNIBA is originally a community of "children".
+	- [[UNIBA]] is originally a community of "children".
 		- and later, it become a company.
 			- (starting "selling" their ability - joining the economy)
 		- we consider that positive itself

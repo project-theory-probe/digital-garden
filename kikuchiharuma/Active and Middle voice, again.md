@@ -1,4 +1,4 @@
-- I mentioned [[中動態の世界 意志と責任の考古学]] in [[We Project well]]
+- I mentioned [[中動態の世界 意志と責任の考古学]] in [[We project well.]]
 	- Kokubun proposes a verb history (he speculates) in this book
 		- there were two type of verbs about 2000 years ago
 			- active ... starts with the subject and ends outside
