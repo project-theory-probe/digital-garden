@@ -16,14 +16,14 @@ Although I use the word “architecture”—a physical structure, which is the 
     
     Yet, pronounced difficulty is still recorded when there is the presence of racism and other inequalities (Neal et al. 2019).
 
-2. I don’t want to start with localizing intimacy by going into interpersonal interactions (like friendship) or place-based practices (like placemaking) because the immediate focus on geographical localization creates a dualistic view of lives “online and offline”, “here and elsewhere”, “we and them”, “human and non-human” etc. Such duality is the heart of what obstructs intimacy in the first place. To be intimate—_truly seeing and understanding in the way that organically brings forth a caring response-ability_—is a way of being, an ontology!
+2. I don’t want to start with localizing intimacy by going into interpersonal interactions (like friendship) or place-based practices (like placemaking) because the immediate focus on geographical localization creates a dualistic view of lives “online and offline”, “here and elsewhere”, “we and them”, “human and non-human” etc. Such duality is the heart of what obstructs intimacy in the first place. To be intimate—_truly seeing and understanding in the way that organically brings forth a caring response-ability_—is a way of being, an ontology, with no borders!
 
-3. Intellectual theorizing alone does not help the problem we are trying to solve. For example, despite the wave of New Materialism which upholds interdependence, inter-species and relational ontology through introducing useful vocabularies like intra-action, indeterminacy, and so on, there is still a wide gap in bringing this language to world-building practices. To be frank, they are being kept behind high gates of Western academia, jargons, and intellectual debates in developed nations without any practical implications, say, on the life of a people in the war zone of Myanmar.
+3. Intellectual theorizing alone does not help the problem we are trying to solve. For example, despite the relational turn (1990s), ontological turn (2000s), and New Materialism (2010s) which uphold interdependence, inter-species, relational ontology through introducing useful vocabularies like intra-action, indeterminacy, and so on, there is still a wide gap in bringing this language to world-building practices. To be frank, they are being kept behind high gates of Western academia, jargons, and intellectual debates in developed nations without any practical implications, say, on the life of a people in the war zone of Myanmar.
 
 ### Summary:
 I started with metaphysical infrastructures because:
 1. Physical infrastructure attempts __ don't address separation-ontology
-2. Localization __ creates dualism.
+2. Localization __ creates dualism
 3. Social theories __ don't trickle down to world-building due to gate-keep
 
 
@@ -34,5 +34,6 @@ I want to explore how interdependence, from existing intellectual concepts and f
 - infrastructural practices (urban planning, architecture, placemaking)
 - pedagogy design (student-centered learning, care-based education)
 - organizational practices
+- design practices
 
-But if there is not enough _existing language_ to talk about intimacy—the human practice of seeing interdependence—then it is hard to participate in world-building. Creating a language, though, is not only about thinking deeply (which is time spent in theorizing), but also time spent in the world participating; Only then, the language we create is grounded, situated, and embodied. Thus, participatory research is always crucial in the making of new social theories from a lens of interdependence (or new materialist).
+But if there is not enough _existing language_ to talk about intimacy—the human practice of seeing interdependence—then it is hard to participate in world-building. Creating a language, though, is not only about thinking deeply (which is time spent in theorizing), but also time spent in the world participating; Only then, the language we create is grounded, situated, and embodied. Thus, participatory research is always crucial in the making of new social theories from a lens of interdependence.
