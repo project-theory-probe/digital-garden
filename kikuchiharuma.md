@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[Recent connections]]
 - [[the Bazaar of Creation]]
 - [[Multiple Gravities]]
 - [[a Bazaar of Creation]]
