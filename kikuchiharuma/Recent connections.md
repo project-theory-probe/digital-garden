@@ -1,0 +1,20 @@
+- Luhmann and [[柄谷行人|Karatani]]
+	- looks similar 
+		- [[ルーマンのコミュニケーション論の含意①]]
+		- and
+		- [[柄谷行人|Karatani]]'s four interchange formats
+- dialogue with [[shotaroyagi|shotaro]]
+	- Concept of Month (Possible World)
+		- https://ptp.voyage/journal/16/#conceptofmonth
+	- and
+	- Git
+		- branch ≒ Possible World?
+- seeing is intra-active
+	- [[kitty]]'s [[what is seeing]]
+	- and
+	- [[What is Diffraction]]
+		- also
+		- https://ptp.voyage/journal/17/#involutingprojects
+	- maybe also
+		- Impossibility of simultaneously measuring position and momentum
+		- https://www.u-presscenter.jp/article/post-56147.html
