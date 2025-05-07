@@ -1,0 +1,40 @@
+- Dialogue with [[shotaroyagi|shotaro]]
+	- I told about a history of Arts and Science
+		- the process of dividing the Religion to Art and Science
+			- Art is a myth about independence of 
+				- human-like or human-derived
+			- Science is a myth about independence of 
+				- nature-like or nature-dirived
+		- I can't be sure
+			- about this story
+	- but an interesting point of this story is ...
+		- Suggestion about the dangers of 
+			- dividing the world into humanity and nature itself
+		- I want to say about
+			- what does the calculation machines 
+				- Alan Turing enabled the model of general computing
+					- It spread to today's world as personal system
+					- And it also understand human-read/writable language today
+						- human-readable code exchange to formula (computing) behind
+		- It become to have qualities of both Art and Science
+			- It can calculate not human-acceptable answers
+				- It never happen on "art subsystem" as accept-game
+			- It can not calculate contrary to the nature
+				- It never happen on "science subsystem" as truth-game
+	- My point is...
+		- Hackers may be the first people to try to adapt to this new realm
+			- the blurred area of distinction between humans and the nature
+				- A certain "humanity" is not exist there
+					- be superior to nature
+					- interpret the world
+						- especially by natural language
+		- In some ways, they are like animals
+			- However, they have programming languages
+				- it relies on both human and nature ... even cannot tell apart them
+			- Natural language can do something acceptable to (only) human if it is not so to nature
+				- Hackers (and their language) can't do that
+					- This may be the origin why they are humble
+			- Formulae can never express the complexity of the human mind
+				- This may be the origin why they are careless with social matter
+		- as the origin of their ontology
+			- It would be interesting in a way as the birth of language
