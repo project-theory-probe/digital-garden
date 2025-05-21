@@ -4,7 +4,7 @@
 
 
 # My struggles with current trends:
-Although I use the word “architecture”—a physical structure, which is the association that I want to inspire in readers, I wrote about intimacy starting with the **_metaphysical_ _infrastructure_** such as _separation or relational ontologies_, sociopolitical values like _justice_, _autonomy_, _care_ and _desert_ (deserving), as well as neural phenomenon like _neural entrainment_, and introducing the vocabulary _in/visibility._ This is done consciously from the insight that…
+Although I use the word “architecture”—a physical structure, which is the association that I want to inspire in readers, I wrote about intimacy starting with the **_metaphysical_ _infrastructure_** such as _separation or relational ontologies_, sociopolitical values like _justice_, _autonomy_, _care_ and _desert_ (deserving), as well as neural phenomenon like _neural entrainment_, and introducing the vocabulary _in/visibility._ This is done consciously from the [[insight]] that…
 
 1. World-building attempts—starting with physical alteration—are productive but with great limitations, and progress has been severely halted. Despite our widespread adoption of placemaking, walkable cities, and human-centered urban planning, not much progress has been made in terms of uplifting disparity from gentrification, war-mindset, polarization, and discrimination in the past 20 years.
     
@@ -28,7 +28,7 @@ I started with metaphysical infrastructures because:
 
 
 # Going forward:
-I want to explore how interdependence, from existing intellectual concepts and fragmented infrastructural attempts, can now come forth as a strong and generative revolution. My proposal is that the phenomenon _intimacy_—the way of seeing and understanding that organically bring forth response-ability—is a concrete, borderless, social practice which reinforces the insight of interdependence, and can be part of any world-building practices, including
+I want to explore how interdependence, from existing intellectual concepts and fragmented infrastructural attempts, can now come forth as a strong and generative revolution. My proposal is that the phenomenon _intimacy_—the way of seeing and understanding that organically bring forth response-ability—is a concrete, borderless, social practice which reinforces the [[insight]] of interdependence, and can be part of any world-building practices, including
 
 - narrative-based practices (storytelling, movies, archives, museums)
 - infrastructural practices (urban planning, architecture, placemaking)

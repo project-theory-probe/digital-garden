@@ -4,7 +4,7 @@ and guiding feelings I feel from PTP team:
 - Lebendigkeit
 	- The quality of liveliness in everything: a stone, a cloud, a poem, a cat, a building, a human, etc.
 	- We are pursuing a quest to understand, thus, protect …
-		- Livingness: joy, aliveness, living creativity / system...
+		- Livingness: joy, [[aliveness]], living creativity / system...
 		- What it means to be a free person
 			- Ability to adapt with situations is freedom
 			- Creative power in the service of life
@@ -28,4 +28,4 @@ Sharing from myself:
 	- My environment is not conducive to my wellbeing. 
 	- Zombie as default mode of living.
 - Tools I develop to maintain my Nature:
-	- Creation of [[Từ Từ]] is to spark and preserve aliveness (: empathy, joy, gentleness) in daily human connections.
+	- Creation of [[Từ Từ]] is to spark and preserve [[aliveness]] (: empathy, joy, gentleness) in daily human connections.

@@ -29,7 +29,7 @@
 * systematically (politically and philosophically), 
 	* we need to create conditions so people can naturally Care For without sacrificing themselves
 
----> need to promote the insight in language difference of Care For and Care About
+---> need to promote the [[insight]] in language difference of Care For and Care About
 
 # Challenge 2 :
 ![[rehab care.png]]

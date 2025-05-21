@@ -4,7 +4,7 @@ Being Visible:
 
 - Making yourself visible, being able to be seen, transparent, conscious, awake, living.
 
-Being in-visibility:
+Being [[Kitty/In-Visibility]]:
 - Entering, stepping into visibility.
 - Making invisible things seen/known.
 

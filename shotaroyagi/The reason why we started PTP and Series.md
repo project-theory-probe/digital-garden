@@ -1,4 +1,4 @@
-* The reason why we started PTP was to probe. To gain insights
+* The reason why we started PTP was to probe. To gain [[insight]]
 * **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUe7poHLSEUw8K5tXc6s7roCQ6ABTdX7_9Mcb1sW9nTeYQS_hrDXsZrc79frjgghDv3XumKM3xB7opOLXGkm-FvSyGF_HaRZJk2wQU5DYTrmR8S_nqTr8W6qsXJtytLkw9ARO_EwnncrFDbSnpqYksj8yaF2ODu9=s2048?key=EfKy8W7IwVhMRK9DwZN2Ow)*
 * We aimed to expand our previous initiatives called "Quest" into public so as to call for collaborators/sponsors/creators.
 * Our intent was to create intersection between academic, prototype, thoughts and expression.

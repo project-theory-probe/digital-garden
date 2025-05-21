@@ -2,6 +2,7 @@
 
 Based on [Circuit Lab's](https://experimental.run/)
 ![[insight & connect.png]]
+[[insight]]
 
 Also:
 * The most important goal of any conversation is to [[CONNECT]]. - Supercommunicators (2024), Charles Duhigg

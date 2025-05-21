@@ -1,4 +1,4 @@
-
+[[diffraction]]
 Meeting the Universe Halfway (Karen Barad)
 ![[PXL_20250415_064450535.jpg]]
 ![[PXL_20250415_064457208.jpg]]

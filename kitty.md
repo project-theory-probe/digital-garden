@@ -2,36 +2,63 @@
 aliases:
   - Kitty Gia Ngân
 ---
+## Article Series
+-----
+Zines
+* Making A Fuss
+* Daring To Archiving
+* Knowing The Werewolf
+* Intimacy X Revolution
+[[THE ARCHITECTURE OF INTIMACY]]
+* Introduction
+* The Quest for Dialogues, Thus, Insight
+* In-Visibility and In/Visibility: Toward a Practice of Relational Embodiment
+* Intimacy: Site of Danger or Protection?
+* Safety through Care: Going Beyond Building Autonomy and Justice
+* What does it mean to meet an-other?!
 
-### Zine 1: Making A Fuss
-[[Inclusitivity]]:
 
-* Why was I (and some people) silenced? How were we silenced?  
-* What do I want to make a fuss about? How about you?  
-* What does making a fuss have to do with caring? [[Practice of care]]?  
-* What is the difference between anger and care?
+## Main Notes
+-------
+* [[A New Vision for Developmental Psychology]]
+* [[An Ethic of Love]]
+* [[Architecture of Intimacy]]
+* [[Camouflage]]
+* [[Effective Dialogue & Intimacy]]
+* [[Generativity]]
+* [[Hacker as intimate society]]
+* [[Harm principle]]
+* [[How to address Care Labor?]]
+* [[Kitty/In-Visibility]]
+* [[Lebendigkeit]]
+* [[Meeting thus excluding and being alive]]
+* [[Metaconversing]]
+* [[Neuro-divergence in Architecture of Intimacy]]
+* [[Relational Voice]]
+* [[Revolution x Intimacy]]
+* [[Transgenerational haunt]]
+* [[Trouble Making and Love]]
+* [[We need a new Language for Care]]
+* [[What is Seeing]]
+* [[When Sensitivity Enables Complex Projects - NASA]]
+* [[When Want becomes Need]]
+* [[Why need a (participatory) pattern language of intimacy.]]
 
-### Zine 2: 
-Rethink [[voicing]] and representations:  
-  
-* Who gets to tell the story? Whose stories deserved to be protected and heard?  
-* How can I speak up?  
-* How can I be seen?  
-* How do we hold space for the marginalized?
 
-### Zine 3: 
-Emotional [[safety]]:
+## Key Tags
+-----
+* [[relational ontology]]
+* [[diffraction]]
+* [[seeing]]
+* [[Kitty/In-Visibility]]
 
-* How do I feel safe in the world?  
-* How do we build immune against viruses in the system?  
-* How to spot a virus?
 
-### Zine 4: 
-[[Change]]:
-
-* What’s love* got to do with [[revolutions]]?  
-* How we relate matters, but why? Why is everyday interaction political? 
-* How do I get to a place of self-actualization? And we, collectively?
-
-### Next:
-Introducing Organic hosting
+## References
+----
+* Coding Freedom
+* Fragments of an Anarchist Anthropology
+* In A Different Voice
+* Meeting The Universe Halfway
+* Supercommunicators
+* Starting At Home
+* The Hacker Ethic

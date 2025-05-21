@@ -25,4 +25,4 @@ for example:
 	* enabling: engagement <-> active criticality <-> agency <-> whole person <-> care <-> intimacy
 	* an autistic paradise
 
-* is this a diffractive model of society?
+* is this a diffractive model of society? ([[diffraction]])

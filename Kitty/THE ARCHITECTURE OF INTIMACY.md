@@ -7,7 +7,7 @@ In order to introduce this new series, The Architecture of Intimacy, there are 3
 
 **1/ Livingness in Relationships:** 
 
-Alexander devoted his life to empirically studying the guiding force behind all life-affirming systems—a concept he initially called The Quality Without a Name and later on, Livingness (or Vitality / Lebendigkeit). I want to call it Aliveness, using the adjective form as the root word. When viewed through the lens of human relationships, the feeling of Aliveness is our experience of intimacy. When we reach a state of intimacy—of truly seeing and being seen—life-expanding creativity, effective communication, harmonious collaboration, and organic care naturally arise.
+Alexander devoted his life to empirically studying the guiding force behind all life-affirming systems—a concept he initially called The Quality Without a Name and later on, Livingness (or Vitality / Lebendigkeit). I want to call it [[aliveness]], using the adjective form as the root word. When viewed through the lens of human relationships, the feeling of Aliveness is our experience of intimacy. When we reach a state of intimacy—of truly seeing and being seen—life-expanding creativity, effective communication, harmonious collaboration, and organic care naturally arise.
 
   
 

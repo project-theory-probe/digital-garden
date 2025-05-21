@@ -23,7 +23,7 @@ history:
 		* but no continuation of King's politics from an ethic of love ever since
 
 --> we need an ethic of love to intervene in our self-centered longing for change
---> political decolonization
+--> political [[decolonization]]
 --> ontological transformation
 
 calling for...

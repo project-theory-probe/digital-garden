@@ -1,4 +1,4 @@
-* In Issue I wrote about diffraction and reflection.
+* In Issue I wrote about [[diffraction]] and reflection.
 	* To me the distinction resembles that of poking and ping(-pong).
 * Haruma and I also discussed how ping(-pong) scheme was fundamental to the computer networks. 
 * Even TCP(Transport Control Protocol) has 3498 protocols [https://www.gasmi.net/tcp.php](https://www.gasmi.net/tcp.php)
@@ -12,5 +12,5 @@
 	* Primary distinction based on the difference (A/not A)
 	* Identical mark (call/protocol)
 		* Which is a second-order observation (re-entry) based on the difference (call/not call)
-		* But also can be questioned from this layer (diffraction)
+		* But also can be questioned from this layer ([[diffraction]])
 * It is very nuanced...
