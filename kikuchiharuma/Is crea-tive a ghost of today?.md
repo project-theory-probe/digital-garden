@@ -1,0 +1,48 @@
+- [[kitty]] wrote
+	- [Transgenerational haunt](https://publish.obsidian.md/ptp/Kitty/Transgenerational+haunt)
+- my random connection ...
+	- [誰もが疑わない現代の価値観「創造性」という幻想はいかにして創り出されたか](https://www.technologyreview.jp/s/360061/how-creativity-became-the-reigning-value-of-our-time/)
+		- MIT Technology Review (JP)
+		- This article introduces [The Cult of Creativity](https://www.kawade.co.jp/np/isbn/9784309229348/)
+			- a brief history of a new word 'crea-tive'
+		- Could it be started on a loss of ability (creation) trans-generations? 
+		- crea-tive is 
+			- things like creation
+			- not creation itself
+				- how do people lost creation?
+					- the system takes, the system redistributes
+						- ([The Cult of Creativity] depicts that in U.S. mid-century)
+		- with [[A world hacker's live in]] ...
+			- I wrote 
+				- Art is a myth about independence of 
+					- human-like or human-derived
+				- Science is a myth about independence of 
+					- nature-like or nature-dirived
+			- in origin, ability of creation is not divided from us
+				- when art divides us from the world
+					- we also place 'technology' out of us
+					- and began to feel the absence of creation in us
+		- [New Dark Age](https://jamesbridle.com/books/new-dark-age)
+			- dark age -> 'enlightenment' 'renaissance' etc. -> intellectual? creative? humanity age
+				- positive about arts and science
+					- but ...?
+						- demans too much of humans to be human
+						- and to be not nature
+			- humanity age -> ?? -> new dark age?
+				- darkenment? de-lightenment?
+					- it could be more fun
+						- dark is too scary
+		- Hackers
+			- Surrender half of humanity to the world
+				- a darkenment?
+					- someone may feel it 'dark'
+						- a loss of humanity
+				- can we call it re-renaissance (re-re-born) etc. ?
+					- (as a counter for too human)
+			- It's not crea-tive
+				- revival of creation as ...
+					- "prior to the distinction between active and passive, subject and object"
+						- [Coming Alive through Neurodiversity](https://publish.obsidian.md/ptp/Kitty/Coming+Alive+through+Neurodiversity)
+			- not dividing technology and humanity
+				- those are same thing = us
+			- I hope it is an opening of freedom from the ghost of crea-tive for many people
