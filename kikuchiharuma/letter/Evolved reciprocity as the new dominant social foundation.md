@@ -12,7 +12,7 @@
 		- not exclusive
 - for us ...
 	- X seems to be the realization of the state we are looking for
-		- feeling in projecation
+		- feeling in [[Projecation]]
 		- truly intimate space
 		- the space hackers love
 		- ... etc.

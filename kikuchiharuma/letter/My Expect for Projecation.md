@@ -1,4 +1,4 @@
-- Projecation
+- [[Projecation]]
 	- when i met this word through hearing from [[shotaroyagi|shotaro]]
 		- very interested in its doubled structure
 			- doubled meaning?

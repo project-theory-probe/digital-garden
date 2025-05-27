@@ -15,6 +15,6 @@
 		- i pick a new phrase
 			- "Bazaar of Creation"
 				- 創造のバザール
-			- this probably means a space for projecation or intimacy etc. for us
+			- this probably means a space for [[Projecation]] or intimacy etc. for us
 			- we also need a physical space like [[Christopher Alexander|Alexander]]'s.
 				- we first make it in people's interactions

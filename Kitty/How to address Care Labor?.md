@@ -4,7 +4,7 @@
 	* Example 1: A colleague’s kindness in a meeting is Care Labor that maintains an enjoyable environment for the team's productivity.
 	* Example 2: A maid who cleans the house to make it an enjoyable space for those who live in it.
 	
-	- Projecation is only possible when there is A LOT of Care Labor.
+	- [[Projecation]] is only possible when there is A LOT of Care Labor.
 	- Without Care Labor, capitalism collapses into hostility, depression, and unlivability. Capitalism NEEDS care labor so that workers continue to work while maintaining a bare-minimum happiness.
 
 ### **Capitalism’s Strategy: 
@@ -40,10 +40,10 @@
 
 Quests:
 
-* To create the feeling of projecation, care labor needs to be understood and systemically addressed.
+* To create the feeling of [[Projecation]], care labor needs to be understood and systemically addressed.
 	* How? Do we pay or engage in a different economy? 
 	* If we engage in a different, non-transactional economy, like "gift economy", would that prevent participation from people who NEED capital to survive (example: poor, unhealthy, disabled, stigmatized individuals)?
-* Does everyone involve in projecation required to have a "good management of wellbeing" (aka good practice of care)? 
+* Does everyone involve in [[Projecation]] required to have a "good management of wellbeing" (aka good practice of care)? 
 	* Will they most likely be from middle to upper class?
 * Addressing Care is to enter the realm of Morality, which makes the topic triggering to those who benefit from the status quo:
 	* What are the possible paths to include this in popular conversations without creating divisions? 

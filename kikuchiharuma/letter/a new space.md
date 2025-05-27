@@ -19,5 +19,5 @@
 	- how do I communicate this?
 		- anyone can enter and
 		- not a religion or a corporation
-		- it is like a permanent projecation
+		- it is like a permanent [[Projecation]]
 		- it is also a small realization of X

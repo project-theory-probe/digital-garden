@@ -22,7 +22,7 @@
 - 9
 	- How does sensitivity affects how we relate with each other?
 - 10
-	- What is projecation?
+	- What is [[Projecation]]?
 	- Why is it important?
 - 11
 	- What is anti-practice?
