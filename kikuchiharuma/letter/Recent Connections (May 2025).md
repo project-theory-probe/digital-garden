@@ -1,0 +1,27 @@
+- Occupational Therapy
+	- physical x social care
+		- with
+			- [[Object Oriented Ontology|OOO]]
+			- [[Socio-Materiality]]
+			- etc.
+		- <-> physical Therapy
+	- it is ...
+		- practice itself
+			- do together
+		- approach to ZPD (can't do alone, but can do with someone)
+			- not for objective
+		- practice in social situations
+			- in/for real life
+		- like [[COPILOT]]
+			- focus on next thing we can
+			- with client
+				- does [[COPILOT]] do Projectional Therapy
+					- in business world?
+	- it seems occupation, work, project etc. are ...
+		- life as doing?
+		- or do as living?
+			- [[Possibility of a new name]]
+			- also [[We need a new Language for Care]] by [[kitty]] is
+		- not for/about
+			- ('therapy' already includes this?)
+	- just doing/living itself, and sharing that

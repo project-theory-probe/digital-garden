@@ -28,8 +28,8 @@
 		* https://www.amazon.co.jp/-/en/Karen-Barad/dp/082233917X
 		* 場が先にあり、共起したり関係し合う（intra-action）ものがある
 		* 関係性（relation）の前に關係子（relata）があるわけではない
-		* ※LatourのANTにも通じている
-* OOO（オブジェクト指向存在論= Object Oriented Ontology）
+		* ※[[Bruno Latour|Latour]]のANTにも通じている
+* [[Object Oriented Ontology|OOO]]（オブジェクト指向存在論= Object Oriented Ontology）
 	* https://www.amazon.co.jp/Object-Oriented-Ontology-Everything-Pelican-English-ebook/dp/B0786VXPZK
 	* ハーマンの述べているには、フッサールは主観を重んじて存在そのものを排してしまったが、その実物（real object）は存在するし、それに対応する質（real quality）もあるということ
 	* ただ、それには直接アクセスすることはできず、人はsensory objectとsensory qualityを体験している

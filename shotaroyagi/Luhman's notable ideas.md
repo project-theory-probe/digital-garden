@@ -10,7 +10,7 @@
 	* (Sounds like Karen Barad)
 * Element
 	* System is consisted of elements (indivisible for system) and the relationship between them. Elements are not given or predetermined. Rather, they are defined by the relationship they have with other elements.
-		* (BTW element indivisible for system sounds like OOO, because Luhman says that construct of element can be given from different layers/dimension)
+		* (BTW element indivisible for system sounds like [[Object Oriented Ontology|OOO]], because Luhman says that construct of element can be given from different layers/dimension)
 	* For any system, the relationship has to be selected. The reason is because element cannot possibly have every relationship to other elements. The number of relationships grow exponentially to the number of elements.
 	* Thus, system makes division of function. Then, they relate to each other and unite as a whole system through communication.
 * System of difference

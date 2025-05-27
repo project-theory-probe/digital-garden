@@ -30,7 +30,7 @@
 		- [[Lynn Margulis]]: Microcosmos
 		- [[Nick J. Fox]]: Sociology and New Materialism
 		- [[Joseph Rouse]]: Social Practices as Bilogical Niche Construction
-		- [[Graham Harman]]: Object Oriented Ontology
+		- [[Graham Harman]]: [[Object Oriented Ontology]]
 		- [[Ruth Garrett Millikan]]: Variety of Meanings
 		- [[Karen Barad]]: Meeting the Universe Halfway
 		- [[Francisco J. Varela|Fransisco Varela]]: [[Principles of Biological Autonomy]]
