@@ -32,11 +32,11 @@
 - Deleuzo-Guattarian philosophy and architecture
     - [**The Strata/Machinic Assemblage and Architecture**](https://www.euppublishing.com/doi/10.3366/dlgs.2020.0421)
 
-- Luhmann’s Love as Passion: The Codification of Intimacy
+- [[Niklas Luhmann|Luhmann]]’s Love as Passion: The Codification of Intimacy
 
 - techno-ontological implications of Deleuze’s machinic assemblage
     > A machinic assemblage connects and convolutes the disparate in terms of potential fields and virtual elements and crosses techno-ontological thresholds without fidelity to relationships of genus or species. ([Pearson](https://www.routledge.com/Germinal-Life-The-Difference-and-Repetition-of-Deleuze/Ansell-Pearson-Pearson/p/book/9780415183512?srsltid=AfmBOooszNGGOkKleR-Xke4vXhNFAuxhtuxvqX7SpUlsbc5xXevDgEV-), 1999)
 
-- Lynn Margulis’s endosymbiosis…?!
+- [[Lynn Margulis]]’s endosymbiosis…?!
     - Variation doesn’t come only from random mutations but evolve through “long-lasting intimacy of strangers”
 

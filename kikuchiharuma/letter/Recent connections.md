@@ -1,4 +1,4 @@
-- Luhmann and [[柄谷行人|Karatani]]
+- [[Niklas Luhmann|Luhmann]] and [[柄谷行人|Karatani]]
 	- looks similar 
 		- [[ルーマンのコミュニケーション論の含意①]]
 		- and

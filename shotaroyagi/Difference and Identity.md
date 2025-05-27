@@ -7,7 +7,7 @@
 	* In other words these computer networks are built upon identity (protocol).
 * Thus my question, should we think of the world as built upon difference or identity?
 	* Deleuze says Difference is ontologically primary
-	* Luhmann says his theory is based upon difference
+	* [[Niklas Luhmann|Luhmann]] says his theory is based upon difference
 * There seems to be 4 layers
 	* Primary distinction based on the difference (A/not A)
 	* Identical mark (call/protocol)

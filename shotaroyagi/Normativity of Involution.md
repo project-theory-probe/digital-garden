@@ -26,15 +26,15 @@
 		- How do we connect to externals?
 - Agendas:
 	- What is involution?
-		- Dana Haraway: Staying in the trouble
-		- Lynn Margulis: Microcosmos
-		- Nick J. Fox: Sociology and New Materialism
-		- Joseph Rouse: Social Practices as Bilogical Niche Construction
-		- Graham Harman: Object Oriented Ontology
-		- Ruth Garrett Millikan: Variety of Meanings
-		- Karen Barad: Meeting the Universe Halfway
-		- Fransisco Varela: Principles of Biological Autonomy
-		- 西郷 甲矢人：圏論の道案内
+		- [[Dana Haraway]]: Staying in the trouble
+		- [[Lynn Margulis]]: Microcosmos
+		- [[Nick J. Fox]]: Sociology and New Materialism
+		- [[Joseph Rouse]]: Social Practices as Bilogical Niche Construction
+		- [[Graham Harman]]: Object Oriented Ontology
+		- [[Ruth Garrett Millikan]]: Variety of Meanings
+		- [[Karen Barad]]: Meeting the Universe Halfway
+		- [[Francisco J. Varela|Fransisco Varela]]: [[Principles of Biological Autonomy]]
+		- [[西郷甲矢人]]：圏論の道案内
 	- What is Ject/Spect?
 		- Ject
 		- Spect
