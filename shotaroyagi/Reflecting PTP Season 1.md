@@ -6,7 +6,7 @@ https://docs.google.com/presentation/d/1oOll5D5XK5YQZ5LUXrPs0xcEukvB1N1Dkfc8KjFq
 	- How we call projects and practices is important (ontological turn)
 - At the origins of Agile, much more was said than is currently being said about the so-called methods.
 	- Hacker culture and practices (e.g. KTP)
-	- Christopher Alexander
+	- [[Christopher Alexander]]
 - There is room for consideration and practice of how to launch a project while respecting each other's ontology (named Projection).
 	- It has already been practiced in past production projects (Shin Evangelion), and has been tried before and after this season.
 - The ontological turn discussed in cultural anthropology touches on the relationship between love, intimacy, and creativity.

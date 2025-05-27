@@ -1,4 +1,4 @@
-From the language built by Christopher Alexander,
+From the language built by [[Christopher Alexander]],
 and guiding feelings I feel from PTP team:
 
 - Lebendigkeit
@@ -23,7 +23,7 @@ and guiding feelings I feel from PTP team:
 Sharing from myself:
 
 - Nature: 
-	- I easily get in-tuned with life forces due to my biological sensitivity (: “psychic ability”, Alexander: "livingness").
+	- I easily get in-tuned with life forces due to my biological sensitivity (: “psychic ability”, [[Christopher Alexander|Alexander]]: "livingness").
 - Environment does not condone my Nature:
 	- My environment is not conducive to my wellbeing. 
 	- Zombie as default mode of living.

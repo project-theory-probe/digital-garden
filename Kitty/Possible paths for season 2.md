@@ -46,7 +46,7 @@ Explore the relationship between space and community (:the feeling of coziness, 
 * The feeling of intimacy creates a human environment for individuals within it to be themselves and self-actualize.
 * Show the interplay of architect/design with emotional sphere/experience.
 * Explore:
-	* Pattern Language by Christopher Alexander
+	* Pattern Language by [[Christopher Alexander]]
 	* Understand Pattern Language by exploring actual spaces. 
 * Possible examples:
 	* [Ném Space](https://www.instagram.com/nem.space/)
