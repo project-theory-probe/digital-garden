@@ -1,3 +1,5 @@
+[[kikuchiharuma]]
+
 [[Issue 1 Editor's Note]]
 [[Issue 2 Editor's Note]]
 [[Issue 3 Editor's Note]]
@@ -10,6 +12,11 @@
 [[Issue 10 Editor's Note]]
 [[Issue 11 Editor's Note]]
 [[Issue 12 Editor's Note]]
+[[Issue 13 Editor's Note]]
+[[Issue 14 Editor's Note]]
+[[Issue 15 Editor's Note]]
+[[Issue 16 Editor's Note]]
+[[Issue 17 Editor's Note]]
+[[Issue 18 Editor's Note]]
 
-[[kikuchiharuma]]
 
