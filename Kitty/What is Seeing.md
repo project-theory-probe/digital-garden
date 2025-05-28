@@ -1,5 +1,5 @@
 
-intimacy: the practice of *seeing* interdependently
+intimacy: the practice of *[[seeing]]* interdependently
 when we are intimate, what do we *see*?
 what is *seeing*?
 

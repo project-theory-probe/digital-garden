@@ -8,7 +8,7 @@
 - **Entanglement**
     - intra-act, beyond all possibilities of disengagement
 - **Haunt**
-    - presence—felt, but not seen
+    - presence—felt, but not seen ([[seeing]])
 - **Transgenerational haunt** (Nicholas Abraham & Mariah Torok)
     - phantom (unresolved traumas, secrets, unspoken griefs) transmit across generations
     - pass down blindspots + mesmerize our multiple egos without knowledge of

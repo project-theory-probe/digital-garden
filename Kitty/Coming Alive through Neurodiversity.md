@@ -16,6 +16,7 @@ Erin Manning and Brian Massumi in [*Coming Alive in a World of Texture: For Neur
 
 in short, linking autism with...
 * [[aliveness]]
+* [[seeing]]
 * [[In-Visibility]] (perception)
 * [[insight]] (mode)
 * [[relational ontology]]

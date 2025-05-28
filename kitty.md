@@ -21,10 +21,12 @@ Zines
 ## Main Notes
 -------
 * [[A New Vision for Developmental Psychology]]
+* [[Affect creates the possibility of felt haunt]]
 * [[An Ethic of Love]]
 * [[Architecture of Intimacy]]
 * [[Camouflage]]
 * [[Effective Dialogue & Intimacy]]
+* [[Fractal development]]
 * [[Generativity]]
 * [[Hacker as intimate society]]
 * [[Harm principle]]
@@ -47,10 +49,13 @@ Zines
 
 ## Key Tags
 -----
-* [[relational ontology]]
+* [[affect]]
+* [[aliveness]]
+* [[autism]]
 * [[diffraction]]
+* [[In-Visibility]]
+* [[relational ontology]]
 * [[seeing]]
-* [[Kitty/In-Visibility]]
 
 
 ## References
@@ -62,3 +67,4 @@ Zines
 * Supercommunicators
 * Starting At Home
 * The Hacker Ethic
+* Zami: A New Spelling of My Name

@@ -1,17 +1,18 @@
+connection: [[affect]], [[seeing]]
 
 Environmental awareness 
 	→ timelessness
 		→ vitality affect
 
-From Daniel Stern:
-* ***Vitality affects** are felt qualities of **aliveness-in-motion**.
+From [[Daniel Stern]]:
+* Vitality affects are felt qualities of **aliveness-in-motion**.
 	- A sudden shift
 	- A smooth flow
 * bridges body and mind, emotion and movement 
 * no duality
 * communication before language
 
-Then I read Zami by Audre Lorde about:
+Then I read Zami by [[Audre Lorde]] about:
 * experience of racism that is universally felt
 	but no one can speak of
 	or name

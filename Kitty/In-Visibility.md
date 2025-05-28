@@ -1,4 +1,4 @@
-Category: [[INTIMACY]]
+Category: [[INTIMACY]], [[seeing]]
 
 Being Visible:
 
