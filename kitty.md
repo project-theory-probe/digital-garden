@@ -60,11 +60,14 @@ Zines
 
 ## References
 ----
+* All About Love
 * Coding Freedom
 * Fragments of an Anarchist Anthropology
 * In A Different Voice
 * Meeting The Universe Halfway
+* Mushroom at the End of the World
 * Supercommunicators
 * Starting At Home
 * The Hacker Ethic
+* The Minor Gestures
 * Zami: A New Spelling of My Name
