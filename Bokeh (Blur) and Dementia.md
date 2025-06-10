@@ -1,0 +1,15 @@
+- Murase San
+	- [poniponi people 005](https://poniponi.or.jp/dialogue/poniponipeople/dialogue-005)
+		- In editing ...
+		- His only request was about spelling of "ぼけ"
+			- not "ボケ"
+		- ”ぼけ” means dementia in the context of this interview
+			- "ぼけ" also means "blur" in Japanese
+				- also known as bokah in photography
+	- it is a very small difference
+		- but the difference is important for him, 
+			- or the people he faces
+- dementia as blur
+	- just be blur-ring
+		- (we need middle verb again)
+		- not diseases
