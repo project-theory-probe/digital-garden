@@ -1,0 +1,15 @@
+- Hackers meet [[Christopher Alexander|Alexander]] again
+	- [沢田マンションツアー as RubyKaigi 2025 Day 4 & 5 —— 「無名の質」に会いに行く](https://tech.smarthr.jp/entry/2025/06/17/120244)
+		- Quality Without A Name
+		- 情報システム学会 also re-visits
+			- 連載　オブジェクト指向と哲学
+			- https://www.issj.net/mm/mm06/12/mm0612-7-sg.html
+	- Very similar with my article series
+- I feel to need ...
+	- Explaining 4d Process Model
+		- https://experimental.run/4d-process-model/version-1_0
+		- As an extension of the double diamond
+	- because
+		- Not enough vocabulary to explain PTP and Explorer
+			- potentially, all my projects
+	- it may be a new article series for the journal?
