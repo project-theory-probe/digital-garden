@@ -8,7 +8,7 @@
 			- cell division
 			- umbilical cord cutting
 			- plant seeds, spores
-				- How feel plants connected by roots
+				- How do plants connected roots feel?
 					- they have common "self" <-> not separated yet ?
 			- project team
 				- naming a new project <-> cutting / separate from the organization / society 
