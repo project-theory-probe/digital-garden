@@ -1,0 +1,17 @@
+- Relationship is another aspect of our existence
+	- that's what we emphasize
+- but, what are related to what?
+	- Where do they come from?
+		- process: ?
+			- infinity - cut, separate - and relate each other?
+		- moment: ?
+			- cell division
+			- umbilical cord cutting
+			- plant seeds, spores
+				- How feel plants connected by roots
+					- they have common "self" <-> not separated yet ?
+			- project team
+				- naming a new project <-> cutting / separate from the organization / society 
+		- <-> death: ?
+			- The moment when separation returns to infinite?
+				- supernova explosion -> gas -> new stars
