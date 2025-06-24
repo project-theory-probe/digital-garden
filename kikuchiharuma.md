@@ -5,6 +5,10 @@
 
 ## Thoughts
 
+- [[Separation as the beginning of things]]
+- [[Recent topics]]
+- [[Bokeh (Blur) and Dementia]]
+- [[Is crea-tive a ghost of today?]]
 - [[Recent connections]]
 - [[the Bazaar of Creation]]
 - [[Multiple Gravities]]
