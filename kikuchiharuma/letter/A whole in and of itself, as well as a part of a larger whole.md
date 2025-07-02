@@ -1,0 +1,14 @@
+- Holon
+	- https://en.wikipedia.org/wiki/Holon_(philosophy)
+		- "a term coined by Arthur Koestler in The Ghost in the Machine"
+		- "a whole in and of itself, as well as a part of a larger whole"
+- Im interested in ...
+	- Janus: A Summing Up (1978)
+		- a book about holarchy
+		- also available in Japanese
+			- but a bit strange title for it ... 
+				- https://kousakusha.co.jp/BOOK/ISBN978-4-87502-528-3.html
+	- perspective / way of thinking
+		- start with infinity
+			- like G. Spencer-Brown and [[Christopher Alexander|Alexander]]
+		- "The scientist's discoveries impose his own order on chaos, as the composer or painter imposes his; an order that always refers to limited aspects of reality ..."

@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[A whole in and of itself, as well as a part of a larger whole]]
 - [[Separation as the beginning of things]]
 - [[Recent topics]]
 - [[Bokeh (Blur) and Dementia]]
