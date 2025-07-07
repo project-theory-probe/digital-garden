@@ -1,0 +1,73 @@
+- Recent finding
+	- Koichiro Eto: [[パターン、XP、Wiki ー時を超えた創造の原則]]
+		- 2009
+			- https://gihyo.jp/book/2009/978-4-7741-3897-8
+		- This book is about the history of Wiki
+			- Eto connects wiki history to the [[Kent Beck]]'s XP
+				- and Pattern in software world
+				- and its origin, Alexander
+		- almost the same route as the hacker culture series
+			- my series starts from agile itself
+				- but Eto's point is Wiki
+			- in the end, both are reached a same historical view
+		- this encourages me 
+			- finding another species born from the same sea
+				- Eto is a media artist, so I should be closer to that side
+				- but I was with UNIBA
+				- My approach is more tended to hacker side than art world
+		- the difference is...
+			- I rediscovered "git" is the key for entering our side
+				- Eto write about Wiki as a platform of creation
+					- It can be true in another place
+				- but I can't believe Wiki could be a foundation of hacker world
+			- "Pattern, XP, git - the principle of the timeless way of creation"
+				- this may work on my series
+	- [[Kent Beck]]: [[Tidy First?]]
+		- 2024
+			- https://www.oreilly.com/library/view/tidy-first/9781098151232/
+		- This book is about programmer's personal practices
+			- When and how write and organize code
+		- Impressive descents
+			- He wrote ...
+				- p51
+					- これまであなたが発見したいちばん強力な抽象化のいくつかは、実行中のコードから派生したものだ。それらは推測からは決して生み出すことはできなかっただろう
+					- Some of the most powerful abstractions you have discovered so far are derived from running code. They could never have been created from speculation alone. (DeepL)
+				- p67
+					- 改めて整頓するもう一つの理由は、学習ツールとしての役割だ。コードは自分がどのように構造化されたいかを「知っている」。あなたがその声に耳を傾けて、現在の構造から望んだ構造へ移行しようとしているのなら、必ず何かを学ぶはずだ。整頓はあなたの設計のあらゆる結果を意識するための素晴らしい方法だ。整頓は設計がどのようになるかを照らし出すのだ。
+					- Another reason to reorganize is its role as a learning tool. Code “knows” how you want it to be structured. If you listen to that voice and try to transition from the current structure to the desired structure, you are bound to learn something. Reorganization is a great way to be aware of all the consequences of your design. Reorganization illuminates how the design will turn out. (DeepL)
+						- Reorganization: Tidy up
+			- I think 
+				- this is one of the most powerful result of version control
+					- beyond the speculation or simulation
+					- power of agile
+			- and I feel 
+				- there are many agile-derived methodologies without this point
+					- learning with objects / materials
+				- software, or tings that appear on the screen
+					- are misunderstood
+					- as a reflection of thought / mind
+						- even if they appear to be so
+						- they are objects
+						- not thought / mind itself
+	- Manabu Ueno: [[モードレスデザイン 意味空間の創造]]
+		- 2025
+			- https://modelessdesign.com/
+		- This book is about design philosophy (as a general creativity) 
+			- "modeless" means opposition to trying to control people
+			- it helps people to creating their own world 
+		- His object - oriented design is
+			- related to materiality
+				- materiality is freeing people from goals and benefits
+				- revive the relationship between the world and the self
+			- He mentioned middle voice etc. in this book
+	- these seems to be linked to the importance of git and all my recent thinking...
+		- confronting matter, people bonding through material
+			- (some kind of materialism ... ?)
+		- Wiki is too fragile as a representation of substance
+			- It tend to a reflection of human thought / mind
+		- humanity that does not control matter
+			- or
+			- does not view the world as as the realization of thoughts
+				- these thinking ignore their body
+					- not learn from the world
+		- I will continue trying to understand more and explain this better
