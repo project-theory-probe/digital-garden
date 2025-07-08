@@ -43,7 +43,7 @@
 			- and I feel 
 				- there are many agile-derived methodologies without this point
 					- learning with objects / materials
-				- software, or tings that appear on the screen
+				- software, or things that appear on the screen
 					- are misunderstood
 					- as a reflection of thought / mind
 						- even if they appear to be so
@@ -60,14 +60,18 @@
 				- materiality is freeing people from goals and benefits
 				- revive the relationship between the world and the self
 			- He mentioned middle voice etc. in this book
-	- these seems to be linked to the importance of git and all my recent thinking...
+	- these seem to be linked to the importance of git and all my recent thinking...
 		- confronting matter, people bonding through material
 			- (some kind of materialism ... ?)
 		- Wiki is too fragile as a representation of substance
-			- It tend to a reflection of human thought / mind
+			- also tends to a reflection of human thought / mind
+			- git behaves more materialistic
+				- it knows itself, and tells us
+					- chance of learning
 		- humanity that does not control matter
 			- or
 			- does not view the world as as the realization of thoughts
 				- these thinking ignore their body
+					- or theory of the material side (nature)
 					- not learn from the world
 		- I will continue trying to understand more and explain this better
