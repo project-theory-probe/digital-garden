@@ -1,0 +1,30 @@
+- [[Pelle Ehn]]
+	- [Work-Oriented Design of Computer Artifacts](https://www.diva-portal.org/smash/get/diva2:580037/fulltext02.pdf)
+		- 1988
+			- [[Alistair Cockburn]] mentions in [[アジャイルソフトウェア開発 (The Agile Software Development Series)|アジャイルソフトウェア開発]]
+		- Shift in Value
+			- rationalistic-> pragmatic
+				- _"...to rethink the dominating objectivistic and rationalistic conception of design."_
+					- theme of this paper
+				- _"...dissatisfaction with traditional theories and methods for systems design, not only with how systems design has been politically applied to deskill workers, but more fundamentally with the theoretical reduction of skills to what can be formally described."_
+					- pragmatic
+				- _"Given my interest in work-oriented design, the shortcomings I find most striking are that practical skills and subjectivity are rendered invisible that the social construction of reality is hidden in the background."_
+					- socio-materialistic
+			- Heidegger, Marx, Wittgenstein
+				- "In pragmatic interpretations of Heidegger, Marx and Wittgenstein I have argued that an emphasis on human practice is a possible philosophical foundation..."
+		- Democracy at Work
+			- _"The first is industrial democracy, the attempt to extend political democracy by also democratizing the workplace - the social life of production inside the factory gates and office walls."_
+				- non-democratic side of society
+					- workspace
+			- _"Good systems design becomes a question of democratization of working life, of influential participation by workers and their trade unions."_
+				- individual as the primary position in the workplace
+- connections
+	- [[Christopher Alexander]]
+		- deeply align people's participation with design principle
+	- our Luhmann paper
+		- politics of Stallman's free software movement
+			- somewhat combative
+	- [[UNIBA]] and its politics
+		- Why teams?
+			- https://teambrew.tools/whyteams/
+		- resist to the labor standards act (JP)
