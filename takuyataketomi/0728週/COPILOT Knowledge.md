@@ -1,4 +1,4 @@
-- By:COPILOT
+- By:株式会社コパイロツト
 - Published:2016/12
 - Collection:プロジェクトマネジメント、ナレッジマネジメント、組織づくり
 
