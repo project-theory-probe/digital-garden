@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[Reductionism and Objective]]
 - [[Democracy at Work]]
 - [[Alexander friends]]
 - [[A whole in and of itself, as well as a part of a larger whole]]

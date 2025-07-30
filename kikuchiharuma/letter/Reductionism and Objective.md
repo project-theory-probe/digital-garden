@@ -1,0 +1,35 @@
+- negative writing about objective
+	- [[Kokubu]]
+		- 目的への抵抗
+	- Kenneth O. O. Stanley
+		- Why Greatness Cannot Be Planned: The Myth of the Objective
+			- (the background of this book is a bit dangerous)
+				- Used to justification of AI (black-box)
+- reductionism
+	- [[Arthur Koestler]] criticizes frequently
+		- ex.
+			- in [[The Ghost in the Machine]]
+			- Stimulus–response model
+				- "dark era of psychology"
+	- these way of thinking are missing ...
+		- its own level / should be thought about
+			- ex. 
+			- mind or intelligence itself
+				- the result
+					- life as machine
+- [[Alistair Cockburn]]
+	- he proposes that ...
+		- project as a "game"
+	- in this view,
+		- the goal "is settled" for the game
+		- nothing "exists for" the game
+- "objective that precedes us"
+	- that also miss about
+		- its own level / should be thought about
+			- ... us
+- we are like this
+	- set an objective, and update it
+		- not the sum of the parts
+		- not a puppet on a string
+	- what enables that (set an objective actively)
+		- it may be mind, intelligence, creation itself
