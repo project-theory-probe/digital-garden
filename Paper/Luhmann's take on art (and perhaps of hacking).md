@@ -1,0 +1,63 @@
+
+
+- I have been reading Luhmann to understand nuances of his theory.
+- Luhmann has been explaining social system, especially art as social system, in terms of 
+- To him, his theory is “tools for discovery” and not a complete illustration of society.
+- If so what do we want to find out using his theory?
+- I think we can discover few thing from using his theory;
+	- How can communication be material? 
+	- How does does Hacker community self-reference?
+	- What made self-organization of the hacking as system possible?
+	- Why is some projects successful and some not?
+	- Why is the hacker culture crucial for the autopoiesis of the system?
+	- Also,
+		- Reframing hackers as an autopoietic social system (via communication)
+		- Explaining survival dynamics of hacker culture
+		- Offering a practice-sensitive reinterpretation
+- Which in tern, *may* have contribution to the Luhmann's theory;
+	- How does program and code co-evolve?
+	- How can material (or non-human) take a major role in the communication?
+	- Also,
+		- Empirical demonstration in a contemporary, decentralized domain
+		- Integrating practice theory / STS with systems theory
+		- Methodological insight
+- Between art and hacking
+	- Form
+		- Art: Every strokes and distinction the art piece makes
+		- Hacking: Source code and intelligibility of the code
+	- Medium
+		- Where the form takes place, which allows (impossible) communication possible 
+		- Art:  Canvas and sounds etc.
+		- Hacking: Turing machine with display showing codes. UI that sensitize the operation and demonstrate the material consequences of the code.
+	- Style
+		- Art: Patterns of forms that can transcend through art piece and time, relating pieces together (either positively or negatively because art can differentiate by negating the form). Most importantly style enables self-reference and memorize history.
+		- Hacking: Maybe modules, versions? 
+	- Observation
+		- Observation has 3 digrees; identification, utterance (leads to communication), communication (that can leads to identification in Sellar's sense)
+	- Communication
+		- Communication also has 3 dimention; Information, utterance, understanding. Therefore there is double contingency for communication to happen. Communication is always a selection and emergent.
+		- Art: Art work allows communication to happen. The artist inscribe the form into the medium which then allows audience to perceive it and understand. The communication defines whether the art is perceived as art or not. If excluded, it is not regarded as art. But in order to be counted as such, artwork also need to negate or go beyond existing distinction (style etc.).
+		- Hacking: What hackers are communicating is pretty complicated. What they are showing and communicating is materials that they see, through the code. What allows this is turing machine that enable reproduction of what the programmers are writing. Also, the practice also matters. Linus enforced a practice that clone environment for every programmers. This allowed people to see the same media, although seemingly distributed, and work together on it. For programmers, what matters is whether it runs or not. If it doesn't that is not a code, but moreover, that is not a communication that matters.
+	- Self-reference
+		- Self-reference enable system to self sustain. 
+		- Art: Through communication of art, people constantly refer to art as history and system. This enable art as system to be autopoietic.
+		- Hacking: For hacker the practice and the system (community) is the object for design. However, that is not self-referencial and paradoxical as Luhmann says. It is explicit design that hackers experimented throughout history.
+	- Differentiation
+		- Differentiation happened when the code was changed. 
+		- Art: The art was differentiated after the technology of copying has developed and artist had to strive for originality. Also, after Rennaisance artist themselves had to be aware of the practice of art, and also of explaining themselves to patrions. 
+		- Hacking: I don't think hacker has differentiated from anything. What is differentiation anyway, then? I think it was a hobbyist group, talking about hacking like homebrew computing club. But then I guess it differentiated when the source code was able to proliferate.
+	- Code
+		- Code in Luhmann's term is the rules that defines and applies to every communication. 
+		- Art: Art used to be different is now, although unstable, is art/non art.
+		- Hacking: For hacker it is running/not running or working/not working because running code doesn't necessarily makes it workable or meaningful.
+	- Programming
+		- Program is the structure and rules that enable communication to operate under the code. 
+		- Art: For art, style is the meta-program for communication to distinguish and discuss the code.
+		- Hacking: Hacker also have the code of conduct. And the way to operate is guided by git, words (repository etc.) and read me. Also conferences helps it stick.
+	- Evolution
+		- Evolution happened internally. 
+		- Art: Art was primarily under the domain of religion. Now it is under the realm of art and is definitely coupled with economics. I wonder how Luhmann talks about evolution in terms of art.
+		- Hacking: For hacking it was from irritation from economic and legal system. 
+- Question
+	- If talent were acquired by being open source, what does it mean in Luhmannian terms?
+	- 
