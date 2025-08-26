@@ -4,14 +4,15 @@
 * In order to say "new materialism" is necessary,
 	1. I need to say that hacking is evidently material, and that past account of hacker practices fail to grasp this aspect. 
 	2. The agency and entanglement of the matter is crucial to build Luhmannian account of "hacking as communication." In other words, past account fall short on this point.
-* Answering #1 Hacking is evidently material, and past accounts fail to grasp this aspect:
-		* Levy (Hackers, 1984) and Himanen (The Hacker Ethic, 2001) both lean culturalist: ethics of openness, freedom, fun are treated as drivers. These are important, but they foreground ideals, not the material practice of code, compilers, infrastructure.
-		- Coleman (Coding Freedom, 2012) is more cautious. She knows ethnography tends to emphasize “culture.” She highlights the diversity of hacker practices but doesn’t dissect how the material medium (codebases, version control, machines) enforces what counts as valid practice.
-		- Kelty (Two Bits, 2008) comes closest: he says information itself “seeks out” people to do things that sediment into norms. But still, his emphasis is on recursive publics (reflexivity), not on the entanglement of machine resistance and communication structures.
-	- Past accounts acknowledge practices, but don’t capture the way material-discursive entanglement itself is constitutive of hacker communication.
+	
+* # **Answering #1 Hacking is evidently material, and past accounts fail to grasp this aspect:**
+	- Levy (Hackers, 1984) and Himanen (The Hacker Ethic, 2001) both lean culturalist: ethics of openness, freedom, fun are treated as drivers. These are important, but they foreground ideals, not the material practice of code, compilers, infrastructure.
+	- Coleman (Coding Freedom, 2012) is more cautious. She knows ethnography tends to emphasize “culture.” She highlights the diversity of hacker practices but doesn’t dissect how the material medium (codebases, version control, machines) enforces what counts as valid practice.
+	- Kelty (Two Bits, 2008) comes closest: he says information itself “seeks out” people to do things that sediment into norms. But still, his emphasis is on recursive publics (reflexivity), not on the entanglement of machine resistance and communication structures.
+- Past accounts acknowledge practices, but don’t capture the way material-discursive entanglement itself is constitutive of hacker communication.
 - Coleman and Kelty were already edging toward practice-based accounts, but they didn’t push into the material-discursive ontology that we need for a Luhmannian argument.
 
-- Kelty on Hacker Culture, Norms, and Materiality
+- **Kelty on Hacker Culture, Norms, and Materiality**
 	1. Free Software as Response, not Ideology
 	2. Suspicion of Purely Ideological Readings
 	3. Norms situates in practices of reuse, modification, and distribution of code
@@ -29,9 +30,7 @@
     - Material is not just enabling; it has agency. Compilers reject bad code; Git forks preserve divergence; test suites enforce system boundaries.
     - Ethics doesn’t just come from recursive discourse (Kelty’s publics), but from agential cuts enacted by apparatuses (Barad).
 
-  
-
-* Gabriella Coleman’s View on Hacker Ethics
+* **Gabriella Coleman’s View on Hacker Ethics**
 	1. On continuity and transformation of ethics
 		- Coleman stresses that it’s a mistake to treat the “hacker ethic” as a fixed set of principles.
 		- Early hackers (as Levy described) did not write manifestos; ethics were more tacit and taken for granted.
@@ -48,7 +47,7 @@
 	* Coleman doesn’t show how self-description ties back into the systemic reproduction of communication.
 	* Coleman is suggesting is second-order observation or self-description. Along with Kelty's discursive practice, we can also echo this part and show limitation upon introducing Luhmann.
 
-- Answering #2 The agency and entanglement of matter is crucial to building a Luhmannian account of “hacking as communication.”:
+- # **Answering #2 The agency and entanglement of matter is crucial to building a Luhmannian account of “hacking as communication.”:**
 	- Luhmann alone cannot explain "hacking as communication"
 	- Source-code is medium. 
 	- Information of the communication is the difference of the source-code. 
