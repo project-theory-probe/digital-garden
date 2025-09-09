@@ -1,0 +1,21 @@
+- The Nonhuman Turn
+	- https://www.upress.umn.edu/9780816694679/the-nonhuman-turn/
+	- connection: 
+		- Animal Studies
+		- New Materialism
+		- Object Oriented Ontology
+	- 21st Century Studies
+		- a project of [University of Wisconsin](https://en.wikipedia.org/wiki/University_of_Wisconsin)
+- Yusuke Kusumi (Researcher)
+	- https://researchmap.jp/yusuke_kusumi
+	- connection: 
+		- New Materialism
+		- Post Humanism
+		- Agential realism
+	- who is from education
+- More Than Human (not novel)
+	- https://ekrits.jp/more-than-human/
+	- connection:
+		- Multispecies Anthropology
+		- Environmental humanities
+	- a humanities movement in Japan
