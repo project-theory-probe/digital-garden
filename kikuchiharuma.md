@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[Alexander Friends 2]]
 - [[Reductionism and Objective]]
 - [[Democracy at Work]]
 - [[Alexander friends]]
