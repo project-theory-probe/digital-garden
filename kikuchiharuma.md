@@ -5,6 +5,8 @@
 
 ## Thoughts
 
+- [[Realm for the quasi-language]]
+- [[Quasi-Language]]
 - [[Alexander Friends 2]]
 - [[Reductionism and Objective]]
 - [[Democracy at Work]]

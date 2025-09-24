@@ -1,0 +1,32 @@
+- I thought before the power of code comes from ...
+	- code or version control itself
+		- its quality as "quasi - nature"
+		- virtually infinite for human
+- but I found its human aspect
+	- all programmers learn programing language
+		- and all people need to learn it 
+			- for joining open source projects
+	- git, version control and its communication manner are 
+		- environment for the language
+	- programing languages are not "nature" language
+		- so programmers are forced to think in 
+			- non-nature way
+			- ... communicate on the nature of programming language
+			- the environment looks like quasi-nature for me
+			- but it is also a quasi-language
+				- virtually infinite for human
+- this suggests ...
+	- possibility of other quasi-languages
+		- language for teams
+		- language for projects
+			- language for any kind of inter-person
+	- accessing to the space of reasons
+		- indirectly but clearer than ever
+		- each project has its space of reasons
+			- express, share and build it together
+	- connection to [[Christopher Alexander|Alexander]]
+		- the pattern language as a quasi-language
+			- for build architecture or village together
+				- avoiding domination of "professional"s
+			- that hackers love
+	- ... and more
