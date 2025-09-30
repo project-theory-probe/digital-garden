@@ -1,0 +1,45 @@
+- N. Katherine Hayles
+	- 10 - 15 years ago
+		- I read some of her books
+			- Not logically
+			- Just feel comfortable
+				- not just comfort
+				- it seems be my adventure
+					- optimistic about software and network
+					- but today, it's too optimistic
+		- I borrowed from her
+			- "Embodied Virtuality"
+			- as UNIBA's tag line
+	- Last week
+		- I found her name in an article about "Post Humanism"
+			- with
+				- Karen Barad
+				- Humberto Maturana
+				- Francisco Varela
+				- etc.
+		- I was just finding new name for "a relativized view of humanity"
+- Hayles ...
+	- explains very well the difference with "paper world"
+		- and its possibility (in radical way)
+	-  especially
+		- the transformation of people at that time
+			- this is the most important point
+				- for the hacker culture
+- Perhaps we need to say "human" in the middle voice
+	- but 
+		- Non -
+		- More Than -
+		- Post - 
+		- or counter (ex. material)
+	- these names are not enough
+- if we could place "technology"
+	- in the middle (between human and nature, etc.) of the world
+		- with affecting both people and nature,
+		- it archives an effect of middle voice, partially
+	- but someone put "technology" into tools, under (or out of) human
+		- we learn quasi-language for that,
+		- and sometimes achieve ideal cooperation
+			- beyond many divides
+			- it has happened occasionally through the world history
+- her suggestions help us to see 
+	- the many worlds opened by quasi-languages

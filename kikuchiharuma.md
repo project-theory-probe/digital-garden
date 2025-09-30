@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[A New Tunnel Opening (to my past)]]
 - [[Realm for the quasi-language]]
 - [[Quasi-Language]]
 - [[Alexander Friends 2]]
