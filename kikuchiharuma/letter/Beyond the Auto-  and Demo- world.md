@@ -1,0 +1,74 @@
+- so many people mention at "wordless" problem
+	- [[柄谷行人|Karatani]]'s X
+	- [[Christopher Alexander|Alexander]]'s Nameless Quality
+	- etc.
+- Those are all "more than selves".
+	- union with oneself
+	- selflessness
+	- ... etc.
+- It looks like "more than human" movements
+	- more than - human
+	- post - human
+	- non - human
+	- not - human ... material, god, infinity
+	- relativized human ... multi species
+		- I think nameless approach is one of these struggles
+			- to abandon naming human
+			- but this is a just escape from the original problem
+- We have not the word for this,
+	- or we can say this our language limits us, instead
+		- from small to large scale
+			- (personal level to human specie level)
+			- a person / human being is just existing
+				- also it is with the world
+- if we have another language ...
+	- middle voices will solve this
+		- human-ing
+		- me-ing
+		- etc.
+			- like friending
+- emerging auto-crats (self - centric - belief) are ...
+	- monsters of "selves"
+	- demo-cracy (everyone - centric -belief) is not enough as counter for it
+		- this is a limitation of self or every division
+			- I think
+		- so what our ahead is a
+			- not self-ish
+			- not everyone-ish
+				- thing
+		- it may be ...
+			- simulation world
+				- like
+					- music
+					- software
+					- game
+						- etc.
+			- it shaped by
+				- quasi-whole (complex enough)
+				- quasi-self (partially me)
+			- it is in between
+				- world of natural - language
+				- world of body (internal organ)
+					- may be
+				- autistic view can approach to body or environment
+		- [[Quasi-Language]] may support opening this level
+			- partially realized in 
+				- score - music
+				- programming language - software
+					- manners
+			- also
+				- [[Alistair Cockburn]] says
+					- we can work together like we play a game
+				- that's the level of this
+					- game needs
+						- world building rules and attitudes
+							- seriousness
+								- without risking someone's life
+				- I think this is "the theory of projects"
+					- this encourage and embrace people
+					- and get over the limitation of struggle with 
+						- the nature of the brain, 
+						- the body, 
+						- others
+						- other species
+						- and matter

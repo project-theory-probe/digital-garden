@@ -5,6 +5,7 @@
 
 ## Thoughts
 
+- [[Beyond the Auto-  and Demo- world]]
 - [[A New Tunnel Opening (to my past)]]
 - [[Realm for the quasi-language]]
 - [[Quasi-Language]]
